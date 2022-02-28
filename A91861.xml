@@ -1,0 +1,1733 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Learning's foundation firmly laid, in a short method of teaching to read English, more exact and easie then ever was yet published by any comprehending all things necessary for the perfect and speedy attaining of the same. Whereby any one of discretion may be brought to read the Bible truly in the space of a month, though he never knew letter before. The truth whereof hath been confirmed by manifold experience. / By George Robertson, schoolmaster between the two North-Doors of Paul's, in the new buildings.</title>
+            <author>Robertson, George, schoolmaster.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91861</idno>
+            <idno type="STC">Wing R1606</idno>
+            <idno type="STC">Thomason E1237_2</idno>
+            <idno type="STC">ESTC R210438</idno>
+            <idno type="EEBO-CITATION">99869238</idno>
+            <idno type="PROQUEST">99869238</idno>
+            <idno type="VID">121613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121613)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 253:E1237[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Learning's foundation firmly laid, in a short method of teaching to read English, more exact and easie then ever was yet published by any comprehending all things necessary for the perfect and speedy attaining of the same. Whereby any one of discretion may be brought to read the Bible truly in the space of a month, though he never knew letter before. The truth whereof hath been confirmed by manifold experience. / By George Robertson, schoolmaster between the two North-Doors of Paul's, in the new buildings.</title>
+                  <author>Robertson, George, schoolmaster.</author>
+               </titleStmt>
+               <extent>[8], 72 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Maxey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English language --  Study and teaching --  Early works to 1800.</term>
+               <term>Reading --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121613:1" rendition="simple:additions"/>
+            <p>
+               <hi>Learning's Foundation FIRMLY LAID,</hi> IN A SHORT METHOD of Teaching to READ ENGLISH, More exact and eaſie then ever was yet publiſhed by any: <hi>Comprehending</hi> All things neceſſary for the perfect and ſpeedy attaining of the ſame. Whereby any one of diſcretion may be brought to read the Bible truly in the ſpace of a month, though he never knew letter before. <hi>The truth whereof hath been confirmed by manifold experience.</hi>
+            </p>
+            <p>BY GEORGE ROBERTSON, <hi>Schoolmaſter between the two North-Doors of Paul's, in the new Buildings.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Thomas Maxey.</hi> 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:121613:2"/>
+            <pb facs="tcp:121613:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hou haſt here (good Reader) a more eaſie, familiar, and perfect way to read Engliſh then ever was publiſhed; Wherein is not only contai<g ref="char:EOLhyphen"/>ned a ſpeedy and certain way for reading of Engliſh, but alſo for underſtanding of numbers, uſual abbreviations, all manner of points, clear<g ref="char:EOLhyphen"/>ly deſcribed in their names and uſes; And generally all things uſefull or incident to reading, ſo as the learner ſhall not need any other book for his help of reading but only this; which being perfectly learned, the learner ſhall be able to caſt up any chapter of the Bible, and read it truely and perfectly, though he have never ſeen a Bible before: wherein the progreſſe will be very eaſie, being from letters to ſyllables and words of all ſorts, firſt in order, then out of order, to prevent learning by rote. By which (with ſome directions which I ſhall be willing to im<g ref="char:EOLhyphen"/>part) one that can read may perform what is here promi<g ref="char:EOLhyphen"/>ſed upon any of ordinary capacity, being deſirous to learn; which directions are here altogether omitted, becauſe the principall of them cannot be imparted but by word of mouth.</p>
+            <p>My genius indeed leads me ſo much to other ſtudies, as that I could hardly afford my felfe any ſpare time to look after this, if my conſcience did not tell me, that that can<g ref="char:EOLhyphen"/>dle which the Lord hath lighted to me in this way, ſo bright beyond all that ever were before me, muſt not he put under a buſhell, but on a candle ſtick, that ſo far as I
+<pb facs="tcp:121613:3"/> am able, I may make it ſhine to all the world, eſpecially to the place where my lot is caſt. And indeed, when I ſeriouſly conſider the fruits of my labours by this Method, and by my way of teaching the ſame, and the fruits of the labours of them that learned the ſame of me (who live comfortably by it, acting far beyond what others of the profeſſion do, which is a teſtimony of the validity of the Method by which they do act) I can ſee no one thing be<g ref="char:EOLhyphen"/>ſides whereby I can benefit the Common-wealth more then by this, as I have found by experience. For ſome have come to me after ſpending many years at School, untill for ſtature and years they were ready to be prentices, but void of all other qualifications, whom in a ſhort time I have conſiderably qualified in every kind. Others of age have for the ſpace of ſome
+12, ſome 16, ſome 20, and ſome more years together ſcarched diligently after reading of Engliſh, and not attained it in any meaſure, whom by Gods bleſſing I have brought to read the Scriptures truely in the ſpace of a month. Reading of Engliſh is a ve<g ref="char:EOLhyphen"/>ry eaſie thing; but the eaſie way is not as yet known of all.</p>
+            <p>But ſome may ſay, That ſuch things may be performed upon thoſe that are quick of apprehenſion; But there may be as ſmall hopes of thoſe that are dull, by that way as by another.</p>
+            <p>To whom I anſwer, I know nor do acknowledg no ſuch thing as a dull perſon, either young or old; but (though there be degrees in that as in other things) all are capable; for I have taught thoſe by this Method, who ne<g ref="char:EOLhyphen"/>ver could be made to couceive any thing by the old way, to read the Bible perfectly in a ſhort time: yea ſome who were very imperfect in ſpeeking, I have made read plain before they couldſpeak plain, who after have ſpoke as plain as others by practiſing reading after the way of this Me<g ref="char:EOLhyphen"/>thod; and all in a ſhort time, to the admiration of parents and others that did ſee and hear it, who will be ready to witneſs the ſame upon occaſion.</p>
+            <p>So thoſe that be called block-heads or dul, are much in<g ref="char:EOLhyphen"/>jured, becauſe the reaſons do not proceed from themſelves,
+<pb facs="tcp:121613:3"/> but either from the careleſneſs of parents, who do not keep their children cloſe to Schoole; or their too much in<g ref="char:EOLhyphen"/>dulgency, that will not commit them wholly to the Tu<g ref="char:EOLhyphen"/>tor; or from the rigor of a rigid cruell teacher; or from an irregular endleſs Method of teaching, of many years practiſe, and in the end no perfection; impoſſible to be comprehended of a tender-brained childe, and ther<g ref="char:EOLhyphen"/>fore muſt be beaten in with rods and ſcourges, and what he gets muſt be deerly bought with blood and ſweat, whereby he is diſcouraged, and his affections quite cru<g ref="char:EOLhyphen"/>ſhed and withdrawen from all learning, and from Schoole, which turneth to be a grinding and tormen<g ref="char:EOLhyphen"/>ting houſe unto him, and not a delight. And to teach one of diſcretion and years by theſe old jumbling ir<g ref="char:EOLhyphen"/>regular wayes, is (juſt as one ſearching for the Philoſo<g ref="char:EOLhyphen"/>phers ſtone) to be ever ſearching, and never finding; as I have known by hundreds in my time, and never finding; as I have known by hundreds in my time, and never heard of one come to perfection; to the which I ſhall bring them in a monthes time with eaſe and delight to the learner. And as for young children, if they have an eaſie ingreſſi<g ref="char:EOLhyphen"/>on by a pleaſant Method, and a ſmiling Tutor, who in the firſt place laboureth to get into their affections, and to find out their diſpoſitions, and follow them according thereto; Then will they run the way of their learning with alacrity, rejoycing in their loving Maſter, and tri<g ref="char:EOLhyphen"/>umphing in their victories by their eaſie Method of read<g ref="char:EOLhyphen"/>ing; every degree of progreſſe incouraging them to a fur<g ref="char:EOLhyphen"/>ther advance: So that nothing ſhall be more pleaſant then the School, nothing more delightfull then their Maſters company.</p>
+            <p>This (good Reader) have I found by experience, and therefore I exhort thee, whether thou be Tutor or Parent, that thou prejudge not this Work as ſlight and inconſide<g ref="char:EOLhyphen"/>rable, untill thou haſt well weighed thoſe neceſſary directi<g ref="char:EOLhyphen"/>ons that I have yet further to impart: whereby thou ſhalt find the ſame effects which I have found, who (I aſſure you) never met with any young nor old, deſirous to learn, but I brought them to reading, unleſſe it were the fault of the Parent, diſtruſtfully pulling them away in the very
+<pb facs="tcp:121613:4"/> nick of time, and but a very few of thoſe: for, I beleeve (notwithſtanding a combination of baſe people (for whoſe good I have hazarded my own undoing) ſuborned ſuch as themſelves, both private and publick, every one a<g ref="char:EOLhyphen"/>cting according to their qualifications; ſome by ſubtle underminings, others (more ſhameleſſe) by open pra<g ref="char:EOLhyphen"/>ctices, endeavouring to ſubvert me, by polluting the ears of my honeſt Neighbours and Cuſtomers with the poyſon of Aſps which is under their tongues; yea, and deceived honeſt people, perſwading them to run that courſe with them; who afterward ſeeing their baſe, wicked and unjuſt ends, were aſhamed, and fell off from them. I know that there is no evill in the City but the Lord hath done it, who is holy and juſt in all his judgments, and will not puniſh without a cauſe, before whom I lay my hand upon my mouth, and acknowledge my ſelf not a<g ref="char:EOLhyphen"/>ble to anſwer one of a thouſand of his judgments; but in regard of them, the righteous Lord judged righteouſly, and brought forth my righteouſneſs as the ſun, and diſap<g ref="char:EOLhyphen"/>pointed them of all their wicked and unjuſt plots.) I be<g ref="char:EOLhyphen"/>leeve (I ſay) none of my profeſsion have met with more honeſt cuſtomers then I have done, who notwithſtanding theſe things, have truſted me, and do not repent when they ſee their children ſo perfect of the Engliſh, and can give ſo good accompt of their proceeding in Latine in ſo ſhort a time; and ſee the vaſt difference between thoſe that have been removed from me for a time, and theſe who have been conſtant with me.</p>
+            <p>Theſe my endeavours (Reader) I recommend to thee and to all Parents of children, and my brethren of the pro<g ref="char:EOLhyphen"/>feſsion, wiſhing from my heart that you were acquainted with them in the effects as I am, that you might accept of them, and make uſe of them; ſo ſhall I find reward in my labours, and reſt thy friend,</p>
+            <closer>
+               <signed>G. R.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:121613:4"/>
+            <head>Brief Directions.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Et as many learn together as conveniently may, matching e<g ref="char:EOLhyphen"/>very one with a fit mate; let all ſay by courſe, principally the moſt negligent, the reſt (eſpe<g ref="char:EOLhyphen"/>cially the mate) looking on and correcting what he miſſeth. Let each one carefully point to every Letter with a Feſcue drawn leiſurely and ſteddily from Letter to Letter, ſounding every one as he toucheth it, that he do not miſcall, miſplace, put out, nor put in: the fore-finger of the left hand may guide them to the beginning of the next line. Encourage the well-doer by commendation or reward, to keep them in ſtriving to excell one another.</p>
+            <p>Let them not take a new Leſſon untill they have well learned the old; nor take too much at a leſſon, nor continue too long without in<g ref="char:EOLhyphen"/>termiſsion. Let them give every Letter his true ſound diſtinctly, not ſounding <hi>e</hi> as <hi>ee:</hi> nor confounding <hi>pb. bv. vf. cg. gj. td. mn.
+<pb facs="tcp:121613:5"/> ſz. j ch. ch ſh.</hi> What Let is to any moſt difficult, let him carefully obſerve you draw<g ref="char:EOLhyphen"/>ing it with your pen in a fair paper. To learn the Conſonants, let them oft repeat it with the two firſt ſyllables made thereof. Be<g ref="char:EOLhyphen"/>ware they give not too much ſound unto them, eſpecially to the Mutes. In a ſyllable let them not divide the ſound of the conſonant from the vowel.</p>
+            <p>The words of the rule of Quantity are to be read by pairs, the ſhort with the long; as,
+<hi>fire, fir.</hi>
+            </p>
+            <p>In ſpelling of a long word, let them go on to the end, without ſtop or diviſion into ſyl<g ref="char:EOLhyphen"/>lables: and inſtantly go it over again once or twice, every time faſter, untill they have the right pronunciation of it. Let the Numbers be read both as cardinals, and or<g ref="char:EOLhyphen"/>dinals.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:121613:5"/>
+            <milestone type="tcpmilestone" unit="unspecified" n="Geneſis."/>
+            <p>a e i o u y</p>
+            <p>i o a e u y</p>
+            <p>a i u e o y e u</p>
+            <p>i a o y u a i e</p>
+            <p>ai ei oi au eu ou ea oa ee oo</p>
+            <p>ay ey oy aw ew ow ea oa ee</p>
+            <p>oo ea oi au ei ow ay oa eu oo</p>
+            <p>oi ee ei oa eu au.</p>
+            <p>ea e au a oa o ee i u oo</p>
+            <p>e ea a au o oa i ee oo u.</p>
+            <p>
+               <pb n="2" facs="tcp:121613:6"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Exodus."/> m ma me mi mo mu mee moo</p>
+            <p>n na ne ni no nu nee noo</p>
+            <p>ſ ſa ſe ſi ſo ſu ſee ſoo</p>
+            <p>f fa fe fi fo fu fee foo</p>
+            <p>v va ve vi vo vu vee voo</p>
+            <p>d da de di do du dee doo</p>
+            <p>b ba be bi bo bu bee boo</p>
+            <p>l la le li lo lu lee loo</p>
+            <p>r ra re ri ro ru ree roo</p>
+            <p>g ga ge gi go gu gee goo</p>
+            <p>k ka ke ki ko ku kee koo</p>
+            <p>z za ze zi zo zu zee zoo</p>
+            <p>w wa we wi wo wee woo</p>
+            <p>t ta te ti to tu tee too</p>
+            <p>y ya ye yo yee</p>
+            <p>p pa pe pi po pu pee poo</p>
+            <p>j ja je ji jo ju jee joo</p>
+            <p>
+               <pb n="3" facs="tcp:121613:6"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Leviticus."/> c ca co cu coo</p>
+            <p>h ha he hi ho hu hee hoo</p>
+            <p>s as es is os us ees oos</p>
+            <p>x ax ex ix ox ux eex oox.</p>
+            <p>d r l b d p c g ſ f v w</p>
+            <p>m n k c g ſ z s t x h j</p>
+            <p>y l r b d u m ſ f v j g</p>
+            <p>c b p d w t ſ z f k s h.</p>
+            <p>b d p d b p u n b p d</p>
+            <p>u n j ſ f l k n h b d p</p>
+            <p>d b p d h p b p h d.</p>
+            <p>ae ei oe oi au ee oo oa ea</p>
+            <p>
+               <pb n="4" facs="tcp:121613:7"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Numbers."/> ba ca da fa ga ha ja ca la ma na pa ra ſa ta va xa ya za.</p>
+            <p>be de fe ge he je ke le me ne pe re ſe te ve xe ye ze.</p>
+            <p>bi di fi gi hi ji ki li mi ni pi ri ſi ti vi xi yi zi.</p>
+            <p>bo co do fo go ho jo ko lo mo no po ro ſo to vo xo yo zo.</p>
+            <p>bu cu du fu gu hu ju ku lu mu nu pu ru ſu tu vu xu zu.</p>
+            <p>ca do fi le nu ſa ri bo me gu ha bi pe ru to vi za.</p>
+            <p>
+               <pb n="5" facs="tcp:121613:7"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Deuteronomie."/> la mo de ru ſi va go ne bu fi za ko we tu pi ca jo hu ly ma do re ſu vi ga ye no be fu zi ka wo te pu yo di ja he lu my da ſe vu gi bo na fe.</p>
+            <p>lamoderuſivagonebufi<lb/> zakowetupicajohuly<lb/> madoreſuvigayenobe<lb/> funazowitepudijahe<lb/> wolumydaroſevuka<lb/> gibofezuyokokiwato.<lb/> pecujalemudiraſovegu<lb/> nibafozetawikupoha<lb/> lymeduriſavojubige.<lb/> nupazoketibunegova<lb/> pyrudemolajocaſiwe<lb/> cotuzafinogadumelo<lb/> banijuveſoradimule.</p>
+            <p>
+               <pb n="6" facs="tcp:121613:8"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Joſhua."/> am as an al af az ax ab ad ag ap at ar ac ah.</p>
+            <p>em es en el ef ez ex eb ed eg ep et er ec eh.</p>
+            <p>im is in il if iz ix ib id ig ip it ir ic ih.</p>
+            <p>om os on ol of oz ox ob od og op ot or oc oh.</p>
+            <p>um us un ul uf us ux ub ud ug up ut ur uc uh uk.</p>
+            <p>om is ul en of az ib uc ed og ap it ur ex om as il un ef oz ab ic ud eg op at ir ux em es al in uf ez ob id ug ep ot ar ix um es ol an if uz eb oc ad ig up et or ax im us el on af iz ub ec od ag ip ut er ex ah iz.</p>
+            <p>ea ead eal eam ean ear eat. oa oad oal oam oan oar oat. eal oam ean oar eat oan ear oat ead oal eam oad.</p>
+            <p>
+               <pb n="7" facs="tcp:121613:8"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Judges."/> mam mas man mal maf maz max mab mad mag map mat mac mar mah mak.</p>
+            <p> mem mes men mel mef mez mex meb med meg mep mec met mer meh mek.</p>
+            <p>mim mis min mil mif miz mix mib mid mig mip mic mit mir mih mik.</p>
+            <p>mom mos mon mol mof moz mox mob mod mog mot mor mop moc moh mok.</p>
+            <p>mum mus mun mul muf muz mux mub mud muc mut mur mug mup muh muk.</p>
+            <p>
+               <pb n="8" facs="tcp:121613:9"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Ruth."/> lam las lan lal laf laz lax lab lad lag lap lac lat lar lah lak.</p>
+            <p>lem les len lel lef lez lex leb led leg lep lec let ler leh lek.</p>
+            <p>lim lis lin lil lif liz lix lib lid lig lip lic lit lir lih lik.</p>
+            <p>lom los lon lol lof loz lox lob lod log lop loc lot lor loh lok.</p>
+            <p>lum lus lun lul luf luz lux lub lud lug lup luc lut lur luh luk.</p>
+            <p>nam was lan fal daf vaz tax rab wad bag ſap hat far zam ras dan bal wax rag hap nab ſat gad ran wal fas bad fam har zax cal yan cap yal. </p>
+            <p>nem wes len fel def vez tex
+<pb n="9" facs="tcp:121613:9"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1 Samuel."/> reb wed beg ſep het fer zem res den bel wex reg hep neb ſet ged ren wel fes bed ſem her zex yen yel.</p>
+            <p>nim wis lin fil dif viz tix rib wid big ſip hit fir zim ris din bil wix rig hip nib ſit gid rin wil fis bid ſim hir zix.</p>
+            <p>nom wos lon fol dof voz tox rob wod bog ſop hot for zom ros don bol wox rog hop nob ſot god ron wol fos bod ſom hor zox col yon cop yol.</p>
+            <p>num lun ful duf vuz tux rub bug ſud hut fur zum rus dun bul rug hup nub ſut gud run fus bud ſum hur zux cul cup.</p>
+            <p>
+               <pb n="10" facs="tcp:121613:10"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2 Samuel."/> bat fox red hul dig was neb zin put gag ſob wil dep mug him ſad yet pul. gap fix web nun rid cag hel buz pip rot fax jet cul did hap nor beg dup. nod wan get buz hil pad ſel cog dub wit nag rod gul hid yax pot del jut. </p>
+            <p>batfoxredhuldigwasnebzin<lb/> putgagſobwildepmukhimſab<lb/> yetpulgapfixwebnunridvex.<lb/> cagholbuzpiprotfaxjetculdid<lb/> hapnorbegdupnodwanget<lb/> buzhilpadſelcogdubwitnag.<lb/> rodgulripyaxpotdeljutpig<lb/> melhadboxgunfilſodpapfed<lb/> jognibgutbedwagſotcubwet<lb/> pilcaplugdipgalnotlidſunjil.<lb/> wedlotmanhulpitbadhogfel<lb/> butriplogpenſupfilrobtaxden<lb/> vilhoprugbidnamfulſoplin</p>
+            <p>
+               <pb n="11" facs="tcp:121613:10"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1 Kings."/> babe bale bane bare bate</p>
+            <p>bab bal ban bat bat.</p>
+            <p>bibe bide bile bite bize</p>
+            <p>bib bid bil bit biz</p>
+            <p>bobe bode bone bore boxe</p>
+            <p>bob bod bon bor box.</p>
+            <p>bube bude bule bute buze</p>
+            <p>bub bud bul but buz.</p>
+            <p>file fine fire fite fixe</p>
+            <p>fil fin fir fit fix.</p>
+            <p>mude mule mure mute muze</p>
+            <p>mud mul mur mut muz.</p>
+            <p>wade wale wane ware waxe</p>
+            <p>wad wal wan war wax.</p>
+            <p>
+               <pb n="12" facs="tcp:121613:11"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2 Kings."/> fi fl ſi ſl ſh ſt fi fl ſi ſl ſh ſt.</p>
+            <p>qu qua que qui quee quo<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>th tha the thi thee thoo<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>th tha the thy thee thoo<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>ch cha che chi chee choo</p>
+            <p>ph pha phe phi phee phoo</p>
+            <p>wh wha whe whi whee whoo</p>
+            <p>ſh ſha ſhe ſhi ſhee ſhoo.</p>
+            <p>wh ch th qu ph ſh oo ee</p>
+            <p>ph th wh ch qu ph ee oo</p>
+            <p>th wh ſh qu ſh ch oo ee</p>
+            <p>ch ph qu ſh wh th ee oo</p>
+            <p>qua choo ſhee phu thy wha</p>
+            <p>ſhoo quee cho why pha thee</p>
+            <p>chi ſha whe tho qui phe</p>
+            <p>thu who phi chee ſho que.</p>
+            <p>
+               <pb n="13" facs="tcp:121613:11"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1 Chronicles."/> bl bla ble bli blo blu blee bloo</p>
+            <p>br bra bre bri bro bru bree</p>
+            <p>ch cha che chi cho chu chee</p>
+            <p>cl cla cle cli clo clu clee</p>
+            <p>cr cra cre cri cro cru cree</p>
+            <p>dr dra dre dri dro dru droo</p>
+            <p>dw dwa dwe dwi dwo</p>
+            <p>fl fla fle fli flo flu flee floo</p>
+            <p>fr fra fre fri fro fru free</p>
+            <p>gl gla gle gli glo glu glee gloo</p>
+            <p>gn gna gne gni gno gnu</p>
+            <p>gr gra gre gri gro gru gree</p>
+            <p>kn kna kne kni kno knu knee</p>
+            <p>ph pha phe phi pho phu</p>
+            <p>pl pla ple pli plo plu</p>
+            <p>pr pra pre pri pro pru</p>
+            <p>ſc ſca ſco ſcu.</p>
+            <p>
+               <pb n="14" facs="tcp:121613:12"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2 Chronicles."/> ſcr ſcra ſcre ſcri ſcro ſcru ſcee</p>
+            <p>ſhr ſhra ſhre ſhri ſhro ſhru</p>
+            <p>sk ska ske ski sko sku skree.</p>
+            <p>ſl ſla ſle ſli ſlo ſlu ſlee</p>
+            <p>ſm ſma ſme ſmi ſmo ſmu ſmoo</p>
+            <p>ſn ſna ſne ſni ſno ſnu ſnee.</p>
+            <p>ſp ſpa ſpe ſpi ſpo ſpu ſpee</p>
+            <p>ſpl ſpla ſple ſpli ſplo ſplu ſplee</p>
+            <p>ſpr ſpra ſpre ſpri ſpro ſpru</p>
+            <p>ſqu ſqua ſque ſqui ſquo ſquee</p>
+            <p>ſt ſta ſte ſti ſto ſtu ſtee ſty</p>
+            <p>ſtr ſtra ſtre ſtri ſtro ſtru ſtree</p>
+            <p>ſw ſwa ſwe ſwi ſwo ſwee</p>
+            <p>thr thra thre thri thro thru</p>
+            <p>thw thwa thwe thwi thwo</p>
+            <p>tr tra tre tri tro tru tree</p>
+            <p>tw twa twe twi two twee</p>
+            <p>
+               <pb n="15" facs="tcp:121613:12"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Ezra."/> wh wha whe whi who whee</p>
+            <p>wr wra wre wri wro</p>
+            <p>phr phra pſ pſa ſpe ſph ſphe.</p>
+            <p>bl ſt dr fl ſm cr ſl ſcl ph</p>
+            <p>ſk br gl th ſpl pr ſn ch tr ſp</p>
+            <p>cl ſh gn ſc fr pl ſtr kn ſw gr</p>
+            <p>wh ſcr dw ſhr tw ſpr thw wr</p>
+            <p>ſqu phr ſph pſ ſcr dw kn ſw</p>
+            <p>pſ thw ſhr tw ſph wr ſqu gn</p>
+            <p>dw pſ wr thw ſpr tw ſhr dw</p>
+            <p>ſqu kn pſ wr phr ſw gr dw ſph</p>
+            <p>blu ſti dra flo ſme cru ſly</p>
+            <p>pha sko bre glu thy pra</p>
+            <p>ſne cho tru ſpi cla gno</p>
+            <p>ſhe fru ſco pla ſtre kni.</p>
+            <p>
+               <pb n="16" facs="tcp:121613:13"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Nehemiah."/> bla ſto dre flu ſmi cra ſlo</p>
+            <p>phe sku bri gla tho pre chi</p>
+            <p>fui tra ſpo cle gna ſhi fra.</p>
+            <p>ſco ple ſtru kni ſwa gro whe</p>
+            <p>ſcru dwi ſhra two ſpre thwi</p>
+            <p>ſpla wro ſque phra ſphe pſa.</p>
+            <p>blo ſte dru fly ſma cro ſle</p>
+            <p>phu sky bra glo the pru chi</p>
+            <p>ſna tro ſpe clu gni ſha fro.</p>
+            <p>ſca plu ſtra kne ſwo gre who</p>
+            <p>ſci dwa ſhro twe ſpru thwa</p>
+            <p>ſplo wre ſquo phri ſpha pſo</p>
+            <p>ſcra dwo ſpre knu ſwi pſa.</p>
+            <p>thwo ſhre twi ſpe wra ſquo</p>
+            <p>gne ſcru dwi ſpra kno ſwe</p>
+            <p>pſu thwi ſhra twe ſphu</p>
+            <p>wri ſqua gno ſcle dwa.</p>
+            <p>
+               <pb n="17" facs="tcp:121613:13"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Eſther."/> blaſtodreſquifluſmicraſlophe skubriglathopreſmuchiſcrain twoſpredwaſhocleſpagniſrap ſcopleſtruthwiſphaknoſwegri whatruſplodweſhrupſiphran bloſtedruſquefliſmacroſlephi skybraglothepruſnichaſcrom tweſprudwiſhecluſpignafroy skepluſtrithwaſphokneſwain. griwhatriſpledwaſhriphrable ſtudriſqueflaſmocreſluphiſca gnaſcrodweſprukniſwathwes gloſhrutwaſphiwroſquegnu. dwiſhrapſoſquathweſcrignou dwaſhriknoſcratwiſhruglem dwaſprogniſphutweſhrothwi wrapſegnuſpodwiſcrakneſwi</p>
+            <p>
+               <pb n="18" facs="tcp:121613:14"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Job."/> blame ſtore dread ſmile flute crane flow phebe skure brine glade thoſe prey chuſe ſnipe. trade ſpoile gnag ſhine cleare ſcope frame plead ſtrife know ſway grove where twine. wrote thwite ſqueal phraſe ſphere blaze droane ſtile flare ſmite crave ſleep bribe skein. glove ſnaile prone ſqure tribe ſpeak clove ſheet frown ſcale pleaſe knife ſtrain cheap groome while ſweat prune. cloſe bleed ſtain dread ſmoke brew flame creep ſlide prove skie chaine theef ſpeare glide break ſprey tread cloak ſheep
+<pb n="19" facs="tcp:121613:14"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Pſalms."/> blot ſtal drip flux crab ſcob glad brim prop club ſcrip trot ſpil clad ſhop fret plug ſtrip. what grim ſwad ſnub chip flat then ſhut drag crop skil gnat ſwil them plat ſprig wrap. knot ſtut flag ſmel brat ſhip thus dwel ſpin brag chop ſhal writ ſtep that whom ſlip clod ſhel flit bran skep cub ſpot clap from trip ſmal drop twit ſtep grin plod knel crag ſcul wren ſprat this wet ſlug clot. skip fled brab ſtil gut knap ſpit drug ſhel clag ſplit blab ſhrug when ſcrap twig ſhot dril trim ſwap knit drum ſhril</p>
+            <p>
+               <pb n="20" facs="tcp:121613:15"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Proverbs."/> ſſe aſſe eſſe iſſe oſſe uſſe</p>
+            <p>ffe affe effe iffs offs uffs</p>
+            <p>ck ack eck icks ocks ucks</p>
+            <p>dde adde edde idds odds udds</p>
+            <p>mme amme emme imms omms umms</p>
+            <p>nne anne enne inns onns unns</p>
+            <p>rre arre erre irrs orrs urrs.</p>
+            <p>aſſe onne eck udde iſſe amme</p>
+            <p>orre egge uſſe innes ack odde</p>
+            <p>eſſe umme irre oſſe enns uck</p>
+            <p>idde affe omme erre iſſe anne</p>
+            <p>ocks adde uffs imme arrs eſſe.</p>
+            <p>baſſe ſonne peck budde ſtiffe ramme</p>
+            <p>dorre legge truſſe ſinns back todde</p>
+            <p>weffe ſumme firre quaffe penns muck</p>
+            <p>lidde wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es loſſe hemme miſſe locks.</p>
+            <p>
+               <pb n="21" facs="tcp:121613:15"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Eccleſiaſtes"/> ble able eble ible oble uble</p>
+            <p>bs abs ebs ibs obs ubs</p>
+            <p>ch ach ech ich och uch</p>
+            <p>cle acle ecle icle ocle ucle</p>
+            <p>cre acrce ecre icre ocre ucre</p>
+            <p>ct act ect icts octs ucts.</p>
+            <p>dle adle edle idle odle udle</p>
+            <p>fle afle efle ifle ofle ufle</p>
+            <p>ft aft eft ifts ofts ufts</p>
+            <p>fth afth efth ifth ofth ufth</p>
+            <p>gle agle egle igle ogle ugle</p>
+            <p>gs ags egs igs ogs ugs.</p>
+            <p>lch alch elch ilch olch ulch</p>
+            <p>lct alct elct ilcts olcts ulcts</p>
+            <p>ld ald eld ild old uld</p>
+            <p>lf alf elf ilf olf ulf</p>
+            <p>lk alk elk ilks olks ulks</p>
+            <p>
+               <pb n="22" facs="tcp:121613:16"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Cant. or Song of Sol."/> lme alme elme ilmes olmes ulmes</p>
+            <p>ln alne elne ilne olne ulne</p>
+            <p>lp alp elp ilps olps ulps</p>
+            <p>ls als els ils ols uls</p>
+            <p>lt alt elt ilts olts ults</p>
+            <p>lth alth elth ilth olth ulth.</p>
+            <p>lve alve elve ilve olve ulve</p>
+            <p>mb amb emb imb omb umb</p>
+            <p>mble amble emble imble omble umble</p>
+            <p>mne amne emne imne omne umne</p>
+            <p>mp amp emp imp omp ump</p>
+            <p>mph amph emph imph omph umph.</p>
+            <p>mple ample emple imple omple umple</p>
+            <p>mpſe ampſe empſe impſe ompſe umpſe</p>
+            <p>mpt ampt empt impt ompt umpt</p>
+            <p>nch anch ench inch onch unch</p>
+            <p>ncle ancle encle incle oncle uncle</p>
+            <p>nct anct enct inct onct unct</p>
+            <p>
+               <pb n="23" facs="tcp:121613:16"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Iſiah."/> nd and end ind ond und</p>
+            <p>ndle andle endle indle ondle undle</p>
+            <p>ng ang eng ings ongs ungs</p>
+            <p>ngle angle engle ingle ongle ungle</p>
+            <p>ngſt angſt engſt ingſt ongſt ungſt</p>
+            <p>ngth angth ength ingth ongth ungth</p>
+            <p>nk ank enk inks onks unks</p>
+            <p>ns ans ens ins ons uns</p>
+            <p>nt ant ent ints onts unts</p>
+            <p>nth anth enth inth onth unth</p>
+            <p>ntle antle entle intle ontle untle</p>
+            <p>ple aple eple iple ople uple</p>
+            <p>ps aps eps ips ops ups</p>
+            <p>pt apt ept ipt opt upt</p>
+            <p>pth apth epth ipth opth upth</p>
+            <p>rb arb erb irb orb urb</p>
+            <p>rble arble erble irble orble urble.</p>
+            <p>
+               <pb n="24" facs="tcp:121613:17"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Jeremiah."/> rch arch erch irch orch urch</p>
+            <p>rcle arcle ercle ircle orcle urcle</p>
+            <p>rd ard erdle irdle ordle urdle</p>
+            <p>rf arf erf irf orf urf</p>
+            <p>gle rgle ergle irgle orgle urgle</p>
+            <p>rk ark erk irk ork urk.</p>
+            <p>rle arle erle irle orle urle</p>
+            <p>rld arld erld irld orld urld</p>
+            <p>rme arme erme irme orme urme</p>
+            <p>rmth armth ermth ormth</p>
+            <p>rne arne erne irne orne urne</p>
+            <p>rp arp erp irp ord urp</p>
+            <p>rple arple erple irple orple urple.</p>
+            <p>rſe earſe erſe irſe orſe urſe</p>
+            <p>rs ears ers irs ors urs</p>
+            <p>rſh arſh erſh irſh orſh urſh</p>
+            <p>rſt arſt erſt irſt orſt urſt.</p>
+            <p>
+               <pb n="25" facs="tcp:121613:17"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Lamentations."/> rt art ert irts orts urts</p>
+            <p>rtle artle ertle irtle ortle urtle</p>
+            <p>rth arth erth irth orth urth</p>
+            <p>rve arve erve irve orve urve</p>
+            <p>ſht aſht eſht iſht oſht uſht</p>
+            <p>ſk aſk eſk iſk oſk uſk.</p>
+            <p>ſle aſle eſle iſle oſle uſle</p>
+            <p>ſme aſme eſme iſme oſme uſme</p>
+            <p>ſp aſp eſp iſp oſp uſp</p>
+            <p>ſt aſt eſt iſt oſt uſt</p>
+            <p>ſtle aſtle eſtle iſtle oſtle uſtle.</p>
+            <p>tch atch etch irch otch utch</p>
+            <p>tle attle ettle ittle ottle uttle</p>
+            <p>ts ats ets its ots uts</p>
+            <p>xt axt ext ixt oxt uxt</p>
+            <p>zle azle ezle izle ozle uzle.</p>
+            <p>
+               <pb n="26" facs="tcp:121613:18"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Ezekiel."/> ble rne lt ng rd ſh nt cle rb tle mp gs nd rf pt sk dde th If mme rk ns ft lp mb ch ld ſt rme ple bs rdle lme rp ſſe lve ts fl rt ſp rle ck ffe dle nct rs lne xt rcle nk ls. nne ct rſh ngle lk nch rth ſht rre ncle rch lct nth cre gle cts rſt zle pth mble cks rble ngth lch ntle rve lks ndle lth mpt rple ſme ngle rld ſtle nts rdle mpth tch mple rmth dth mne rtle mpſe rgle fth lcts rth ngle tch mpt rble ngth rld ntle rſh ngſt lth mne rple fth ghth ndle pt rmth nch mpſe ſtle rp mble xt rch mple.
+<pb n="27" facs="tcp:121613:18"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Daniel."/> urne olt eng urd iſh ant ocle erb itle amp egs ind orf upt isk ath olf uns ark ift umb alp ech ild ups aſt ople otch arme utch ubs ilme urp olve els ort uffle irt aſp orle eck urres idle alne ixt itch uls irth olk arſh. ingle unch ict orch aſht encle unth eagle octs urſt azle opth emble ucks ilch arve ilt olks. endle elth arple orld eſtle ants ample erdle ymph atch oble ymne earne ult ing ard ont. eſh ucle irb and otle erſe able ump ogs urfe apt osk eth ulf irk ans oft elp umb ich ops eld uſt irme aple obs elme.
+<pb n="28" facs="tcp:121613:19"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Hoſea."/> ible orne elt ung ird aſh ont icle urb atle emp ogs end urf ipt ask oth elf urk ins orth aft omb elf uch ips ald oſt elme ardle ubs iple arp elve orme uts ifle art oſp earle inf. uck irs adle ext ircle ork unk alne erſe ils act ungle arſh elk inch arth oſht urch ancle enth acre agle ects arble urſt izle epth amble ocks ulch antle ingth erve ulks indle. alth empt urple ongſt aſme uſtle arld ints ardle umph irtle atch ymne ols ect urſh ingle alk onch erth uſht irch ancle onth icts ugle arſt iſme.
+<pb n="29" facs="tcp:121613:19"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Joel."/> bible corne melt doung bird quaſh font ſickle curb logs bend rattle hemp turf nipt mask both ſelf lurk ſins faith worſe haft lips kemb ſuch glad poſt helme tubs carp nipple. worme buts pearle rifle buck helve dart wiſp meddle ſirs next hils fact ſink reſt marſh tingle yelk pinch loſt hearth daſht lurch rancle ſots tenth pagle ſect depth cantle firſt. locks tumble ſerve life pilch warmth bulks tempt kindle pots marble diſme health purple mints watch mirtle hymne gargle nymph fardle.
+<pb n="30" facs="tcp:121613:20"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Amos."/> table camp vault king lord wiſh bent mound herb little purſe yarn hogs kerfe ript busk path gulf cork lift help comb reach cups fild balme queſt warp nets ruffle. farm dirt gaſp neck marl vaunt youth falne quils bank text ſingle rackt milk harſh worth lanch yours ninth march huſht begale facts length worſt racks humble. carve milch turtle vents mantle wealth folks mundle warble touch ſimple burſt maple legges warm cable wound felt peſtle worth lent.
+<pb n="31" facs="tcp:121613:20"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Obadiah."/> black ſtorme dwelt ſtrong wrath ſword whirle cleark drench thiſtle ſwept charme ſlings frogs prompt which bramble ſhelf thorn ſmell graffe bridle ſnort claſp. wrong ſharp ground ſhift knock chalk dwarf ſpindle thumb ſplint ſwarve truſt ſmooth drink ſcratch whelp ſquint bleſſe gnaſht ſpring church ſwarme throtle ſhirt. wharfe ſtrength bridge print ſcorne cruſh grant ſhould thwart ſhrink preach ſcruple fleſh ſtrangle whelme ſnatch wrincle cleft ſpurn glaſſe.</p>
+            <pb n="32" facs="tcp:121613:21"/>
+            <milestone type="tcpmilestone" unit="unspecified" n="Jonah."/>
+            <p>ce cel cen cent cep cer ceaſe ci cil cim cir ciſe cite.</p>
+            <p>ge gel gem gen gent ger ges gi gib gil gin gip.</p>
+            <p>tiall tian tien tion tious.</p>
+            <p>queſtion beſtiall mixtion.<note place="margin">ſx</note>
+            </p>
+            <p>ce gil tian gem cir gel tion cep</p>
+            <p>gen tial gent cim ger tious gig</p>
+            <p>cent gi tion gin cer ge tien cel</p>
+            <p>gip tious ges gib cent gi tion</p>
+            <p>cite gen ciſe Virgil accent gibbet</p>
+            <p>cellar deceive ginger citron gemme</p>
+            <p>cider motion virgin ſurceaſe</p>
+            <p>council gentle civile recite.</p>
+            <p>ce ace ece ice oce uce</p>
+            <p>ge age ege ige oge uge</p>
+            <p>nce ance ence ince once unce</p>
+            <p>rc earce erce irce orce urce</p>
+            <p>dge adge edge idge odge udge</p>
+            <p>nge ange enge inge onge unge</p>
+            <p>rge arge erge irge orge urge.</p>
+            <p>
+               <pb n="33" facs="tcp:121613:21"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Micah."/> Annoynt decree office father ſenate aſſaile Ladie ordain ſober walnut ſpider battell basket vulgar maintain approach miſchief diſcharge wanton palſey ſtagger aſſemble behold embrace recant haven repentance abſtain Temple acceſſe reprive ceremony happy amount eforce kernell generation require moment abuſe garner memoriall cavill divorce tender window inſpire able courage baptize diſjoyne ſtumble Giant barren diſſemble ranſome locuſt affaires conquer timbrel hazzard mortall inwards rebound dowry quad rant mannour oppoſe accident ſanctifie conjecture exaſperate habitation opportunity regenerate victory celebrate genealogy interpretation wilfull paradox experience relinquiſh interceſſion tradition accompliſh ſacriledge conſtancy paſſover exerciſe religion acknowledge illuminate transfigure obſequies function recompence ſubtilty Centurion innocence ſatisfaction quality excommunicate family ocean peremptory conjunction celeſtiall vigilant reſurrection externall diſquiet according capacitie heavenly commiſeration ceremony underſtanding wiſedome manifeſting cleanſer benefits.</p>
+            <p>
+               <pb n="34" facs="tcp:121613:22"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Nahum."/> DIſdain remove wither explain reliſh Maſter Storie wholſome wretched ſuffer bailife Quaver between worſhip ſummon Mercy bewail therefore avouch Lizard deprive pamper Bewitch deſcribe utter expound Pariſh bowels divel ſuppoſe minute amiſs jollie ſurname booty miſtake purchaſe accuſe Liquor ſuſtaine Arrow ſcatter miſtruſt jangle paſport over Governe abbridg Nephew danger deceive parchment local Eſſence valew conſtancie unfold Tackling maſtiffe cellar quartaine. nigard abject Intrude parcell ſavage raviſh Noiſome beyond palace deſert challenge bracelet event leaver Shelter appertaine corporation plauſible Importunate victual ſtratagem Retribution ungodly civilitie Whitſuntide magiſtrate policie apprehend unction countenance ſocietie interrogation Quinteſſence uttermoſt Epiſtle indifferent crucifie prejudice ſpeciall artificer ſedition Inſtrument violence leopard peſtilence degenerate Unicorn audience ſenſuall luxurious miſcreant portion compendious innocent benediction communion receive naturall benignity uprightneſſe ſecurity Philoſophie ſalvation righteous women.</p>
+            <p>
+               <pb n="35" facs="tcp:121613:22"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Habbakkuk."/> ja je ji jo ju</p>
+            <p>va ve vi vo vu</p>
+            <p>jade jef job jud</p>
+            <p>vade ved vide void</p>
+            <p>gne igne ſigne aign eign oign<note place="margin">g</note>
+            </p>
+            <p>raigne arraigne ſoveraign deſigne reſigne flegme aſſigne.</p>
+            <p>debt doubt lamb kemb comb tomb<note place="margin">b</note> womb dumb thumb.</p>
+            <p>ſcene obſcene aſcend aſcent deſcend<note place="margin">c</note> deſcent aſcertain diſcern ſcepter ſcedule concupiſcence</p>
+            <p>ſci ſciatica ſcience conſcience diſciple diſcipline conſcious laſcivious.</p>
+            <p>ſchi ſchiſme ſchiſmatick ſchiſmaticall</p>
+            <p>handkerchiefe handmaid handſome<note place="margin">d</note>
+            </p>
+            <p>unhandſome friendſhip</p>
+            <p>heard heart george<note place="margin">e</note>
+            </p>
+            <p>igh high nigh ſigh weigh thigh, &amp;c. cough<note place="margin">gh</note> tough through, &amp;c. ſtraight light might night ſight bought brought nought thought ſought</p>
+            <p>heire hour gheſſe gheſt ghoſt. John author<note place="margin">h</note> authority myrrhe
+<pb n="36" facs="tcp:121613:23"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Zephaniah."/> character cherub catechiſme chriſt chirurgion ſepulchre archangel tetrarch chriſtian cholerike eccho melancholie patriarch monarchie chriſme antichriſt antichriſtian chronicle ſcho ſchool ſcholler.</p>
+            <p>bruiſe ſuit fruit conduit circuit.<note place="margin">i</note>
+            </p>
+            <p>damoſel jeopardie yeoman feoffe<note place="margin">o</note> goal gracious precious couragious</p>
+            <p>buy build guard gueſſe gueſt guide<note place="margin">u</note> guile guilt guiſe diſguiſe catalogue</p>
+            <p>league plague decalogue dialogue epilogue prologue prorogue tongue oblique relique heretique traffique.</p>
+            <p>e <hi>as</hi> ee, be he me we people.</p>
+            <p>ie <hi>as</hi> ee, biere beſiege chief grief friend field ſheild prieſt liege lieu lieutenant view adieu. o <hi>as</hi> oo <hi>or</hi> u <hi>ſhort,</hi> to do two conie ſome ſon. u <hi>as</hi> w, gualter guerdon language anguiſh languiſh diſtinguiſh exſtinguiſh. cc <hi>as</hi> x, accent acceſs.</p>
+            <p>
+               <pb n="37" facs="tcp:121613:23"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Haggai."/>'lov'd ſav'd th'art th' Eternal th' Apoſtle th' earth heav'n ev'n crav'd ſerv'd i'le hee'l 'twere.</p>
+            <p>- ſhep-herd ſhep-hooke diſ-hearten diſ<g ref="char:EOLhyphen"/>honeſt diſ-honour falſ-hood goſ-hawke graſ-hopper houſe-hold knight-hood lant<g ref="char:EOLhyphen"/>horn neat-heard pot-heard pot-hooke prieſt-hood.</p>
+            <p>rëall rëenter thëatre prëamble coëternall coëqual Jezrëel Bezalëel mutüall.</p>
+            <p>ayl eyl oyl awl ewl owl eal</p>
+            <p>aid eid oid aud eud oud oad</p>
+            <p>ayn eyn oyn awn ewn own</p>
+            <p>air eir oir aur eur our oar</p>
+            <p>ayt eyt oyt awt ewt owt eat</p>
+            <p>aim eim oim aum eum oum.</p>
+            <p>laid leid loid laud leud loud</p>
+            <p>ſaid ſeid ſoid ſaud ſeud ſoud</p>
+            <p>raid reid roid raud reud roud</p>
+            <p>nail neil noil naul newl noul.</p>
+            <p>
+               <pb n="38" facs="tcp:121613:24"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Zechariah"/> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq qu Rr Sſs Tt Vv Uu Ww Xx Yy Zz.</p>
+            <p>
+               <hi>Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qu qu Rr Sſs Tt Vu Uu Ww Xx Yy Zz.</hi>
+            </p>
+            <p>
+               <hi>Aa Bb Cc Dd Ee Ff Gg Hh Iij Kk Ll Mm Nn Oo Pp Qu qu Rrr Sſs Tt Uuu Ww Xx Yy Zz</hi>
+            </p>
+            <p>Ch ch Ph ph Sh ſh Th th Wh wh.</p>
+            <p>
+               <hi>Ch ch Ph ph Sh ſh Th th Wh wh.</hi>
+            </p>
+            <p>
+               <hi> Ch ch Ph ph Sh ſh Th th Wh wh.</hi>
+            </p>
+            <p>ct ff ffi ffl fi fl ſi ſl ſſ ſſi ſt.</p>
+            <p>
+               <hi>ct ff ffi ffl fi fl ſi ſl ſſ ſſi ſt st.</hi>
+            </p>
+            <p>
+               <hi>ct ff ft fl ſi ſſ ſl ſt.</hi>
+            </p>
+            <p>ai ei oi aw ew ow ay ey oy au eu ou ee oo ea oa</p>
+            <p> 
+               <hi>ai ei oi aw ew ow ay ey oy au eu ou ee oo ea oa </hi>
+            </p>
+            <p>
+               <hi>ai ei oi aw ew ow ay ey oy au eu ou ee oo ea oa.</hi>
+            </p>
+            <p>
+               <pb n="39" facs="tcp:121613:24"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Malachi."/> A B C D E F G H I K L M N O</p>
+            <p>P Qu R S T V U W X Y Z.</p>
+            <p>A L K U R T B I D H G F M E N</p>
+            <p>Y D M F N E B O H R T K L G I</p>
+            <p>C Qu A R V S H P Z F T L O W.</p>
+            <p>Qu Sh Th Ph Ch Wh Th Sh Ph</p>
+            <p>Wh Ch Ph Wh Th Sh Ch Ph Th</p>
+            <p>And Men Lot Red Fall Did Nut</p>
+            <p>Can Pot Sel Inch Quit Hall But</p>
+            <p>King Zeal Or Vent Your End Gal</p>
+            <p>Top Xeno Why Chalk Sheep Thus</p>
+            <p>Quil What Cheap Shal Thoſe Wel</p>
+            <p>Know Lamp Ear Hand Fill Green</p>
+            <p>Root Name Yet Make Faith Dear.</p>
+            <p>Eaſt When Chair Thine Shew Art</p>
+            <p>Ship Then Whoſe Childe Where</p>
+            <p>Aid Bench Good From Death Sin</p>
+            <p>This Draw Blaze Stair Glow Play</p>
+            <p>Shril Chafe Two Praiſe Bend Axe</p>
+            <p>Come John Hope Give Much Not</p>
+            <p>Keep Live Puſh Time Small Ript.</p>
+            <p>
+               <pb n="40" facs="tcp:121613:25"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Matthew."/> a b c d e f g h i j k l m n o p qu r ſ s t v v u w x y z. a m v n ſ r l c v b w d y s f e h u k i p z qu j. b d p h d b p d h p b k ſ u a f w s v ba fo de hu vi ſa wo be fu di ha zo ke vy gu ſe wa bo fe cu jo du hi ga lo pe ju ki ma no re pu qui ta ſo we zi vu ka go ye bu fi da zo pe.</p>
+            <p>ai ei oi aw ew ow ee oo</p>
+            <p>ay ey oy au eu ou ea oa</p>
+            <p>ai ow ei oo eu oi aw ee ay ou ei oa ew</p>
+            <p>oy au ea ai ow ei oo eu oa ee ail owd</p>
+            <p>eim oot eur oin awl eed aym out eyr oan</p>
+            <p>ewl oyd aum eat air own eyl ood eum oit</p>
+            <p>awr een ayl oud eim ook eut air awn eel</p>
+            <p>ayd oum eit oar ewn oyl aud eam.</p>
+            <p>ſſ ſl ſp ſt ſs ff ſt st ct ch ph ſh th wh fl th ct ſh ſt ph ſp ch ſl wh ſs ct ff ſt ph ſp wh ſſ ch ct ſs th ſt ſl ff ſh ſp fl.</p>
+            <p>
+               <pb n="41" facs="tcp:121613:25"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Mark."/> A B C D E F G H I J K L M N O P Qu R S T V U W X Y Z.</p>
+            <p>E A N B I P V M G E D K W T U R Qu Y M A G T J P K V E M R N A U B Qu D Y Z.</p>
+            <p>Ch Ph Sh Th Wh Art Hill Rod Pull Eat Kid Let Vow Bill Your Mud For Wit Send Cal In Ox Dig Tub Zeal. Xeno Quiet Shal Which That Philip Cheap When Thoſe Arme Gloze Bride Plate Dreame Stain Whole Freeze Crow Kept End Vine March Eaſt Quaſh Eare Should Gripe Chaffe Strive Inch Hymne Mount Fix Gnaw Breed.</p>
+            <p>ce gil tian gem cir gel tion cep gen tial gent cim ger tious gib cent gi gin cer ge tien cel gip tious ges cite ace orge ince uge earce ange irce odge urg ence age orce enge ice arge once ege urce inge adg oce erge ige unce onge adge uce irge ance ulge erce udge oce erge orce unge idge ece.</p>
+            <p>
+               <pb n="42" facs="tcp:121613:26"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Luke."/> Abide compare honour purpoſe banquet furniſh taken perill admit counſel redeem kidney ſpirit amongſt mother effect aſſent exhort ſwallow avoyd favour wiſdome parent thither again defend lofty requeſt appoint eſteem number ſubdue chapter abſolve quick-ſight jealous coward adopt redreſſe Kingdom attend extoll pardon. Treaſure beleeve ariſe power vanquiſh aſſail exalt temper ſurmount altar divide plentifull affraid ſeldome leaven repell deſerve ſecond allowance happen belong. wicked about member exact glory open yellow jewell chamber enfix abſurd rather conſerve appetite mariner pedegree ſyllable injury epitaph altitude ſeparation hereſie. million avarice vineger family annuall diminiſh evidence liberal intimate mollifie regular ſalarie veniſon tolerate exception General fealtie manifeſt caſuall hypocrite agonie excellent notable intereſt penury.</p>
+            <p>
+               <pb n="43" facs="tcp:121613:26"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="John."/> Accept infringe cancell parol vacant teſtie ſcruple deface oven vapour ingroſſe manger object quicken raſour temple accent inſtance exile perceive off-ſpring Mercer exchange brimſtone laver defect ſilence exempt citie Marſhall tranſgreſſe reall inkling penance ſuffice abjure cypher wayward latchet office perform barrel defraud mercy kingdom fagot homage ſucceſſe tender denounce iſſue phyſick except virgin reward buckler metall invade. Colledge receive Logick adorn pitie expence Scripture thouſand bulwark gravel thraldom hoſtage oyntment quickſand deſcry lengthen oyntment begin kindred pollute yrkſom citron allow extent devour upon miſchance badger. platform linage oyſter ſurpriſe image traitor condemn ſhipwrack wallet reſtore authoritie benevolence predeceſſor equinoctial uniforme ſuſtenance conception priviledge ſuperſtition underſtanding interrupt apprentice baſtardy. congratulate Teſtament utilitie prodigalitie allyance undertake Philoſophie arbitrement congregation Magiſtrate allegeance ſupreme condition divolve prognoſtication unanimity cogitation perpetual aſſurance ſcorpion pacifie hearts-eaſe worldly memory carriage wanton reverent potentate amplifie ſacrifice poſition.</p>
+            <p>
+               <pb n="44" facs="tcp:121613:27"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Acts."/> a b c d e f g h i j k l m n o p qu r r ſ s t v u w x y z.</p>
+            <p>v b p qu d v w m r x m w x r qu p b v d b v x a o d g p qu y z ſ f l k h b v d m n u i t r x y z r s a u n m w d w v b h k g.</p>
+            <p>ai ei oi aw aw ew ow ay ey oy au eu ou ée oo ea oa ai ow ei oo eu oi aw ée ay ou ey oa ew oy au ea.</p>
+            <p>aid own eit oor eul oid awn éek ayn oul eyd oam ewt oyr aun ead ff fl ſſ ſt ſl ct ch ph ſh th wh ſl th ſi ct ſl ſh ſt ph ſſ ch ff wh ſl ct ſl bl ſt dr fl ſm cr ſl ph sk br gl th pr ſn ch tr ſp cl ſh gn ſc fr pl ſtr kn ſw gr wh ſcr dw ſhr tw ſpr th w ſpl wr ſqu phr ſph pſ ſpr tw ſhr dw.</p>
+            <p>ſtadroflelmucryſlaphoskebrugh</p>
+            <p>thaprotheſnutriſweknaſpridwa</p>
+            <p>ſcradweſproknuſwignaſhrapſa</p>
+            <p>thweſquawroſphigneſprvdwy</p>
+            <p>ſcropſiwreſwaſphothwaſhritwe</p>
+            <p>kniſquotwaſphipſothweſhragni.</p>
+            <p>
+               <pb n="45" facs="tcp:121613:27"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Romans."/> A B C D E F G H J K L M N O P Qu R S T U W X Y Z.</p>
+            <p>A C L H E K P B T R N J G U D F Y D S Qu M X W Z.</p>
+            <p>A L C B R Qu T P J N G H K E W M O F Z U D Y S Qu M X U Z D O Qu R K D R K S C A F B P N J W.</p>
+            <p>Sh Th Ph Ch Wh Th Ch Ph Sh Wh Ch Th Sh Ph Wh Sh Th Ch.</p>
+            <p>Ark Pit Ball Sod Quip Dog Hap Out Kill Rob Cut Lop Will Yet Full Nor Xeno Zeal Egge In Til Meat Got Uan Cal Ten Was Keep Chaire.</p>
+            <p>ce gen tion cep gil tian cer gem tial gent cim ger tious gib cent gel tion gin cer ge tien cel gip cite gen ciſe ace odge irce ange earce uge ince orge once ege arge ice enge orce age ence urge ige unce erge oce adge inge urce ege erce ulge ance irge uce edge onge earce idge ece unge orce.</p>
+            <p>
+               <pb n="46" facs="tcp:121613:28"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1 Corinthians."/> AFfirme refreſh labour contract felicity quiet accuſe conſtant informe notably rabbet intend kernel record afflict yonder corrupt declare lazie agree ague depart refuſe libel reſtore expence degree reaſon victor Sabbath Xeno matter conſtable ſalute diſcord brother alone keeper almoſt diſpute ſhoulder doctrine extract gather envy diſtreſſe pennance enjoyne ſlumber annex woman divorce nothing eſcape ſiſter offering quarter anſwer offend ever ſupport omit archer expreſſe ponder evil zealous aſtray ſummer contract weapon harveſt vaniſh over fixed aloft apparrel dedicate ratifie epicure Monument eloquent mutinie advocate beloved difference Hiſtory canonize temperance amity vitiate liberall penalty examine liberty miſery generall diſable aliant providence homily teſtament verity allowance lineall veniall competent miſerable reſident moderate infidel obloquie eminent miniſter example negligence benefit quality Alderman parable deſtiny furious externall marriage adventure felicity purifie arrogate qualifie amplifie quarrelſome conſequence multitude temptation warfare determine Garriſon majeſtie Xenophon reſolution mandate evermore al ſufficient ettentide inundation matrimony qualification quickning unleavened diſagreement willingly benevolence murmured Ambaſſador ſtability altogether<g ref="char:punc">▪</g> frakincenſe remembrance himſelf
+<pb n="47" facs="tcp:121613:28"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2 Corinthians."/> Tribute addreſſe Orphane refuge obligation walnut travel bullock extend agent dignity vouchſafe geſture mutton imprint enter odious poſſeſſe ſickle conduct power diſcharge obtrude mindfull rejourne ollive precept fancie pupill behave ſentence alledg winnow rejoyce arrive viſage diſſwade conflict wager mingle reject practice whirlewind ſeduce needfull renounce ſubtract contemne incenſe digeſt weeſel ſuſpect prudence miſtake furnace aſpect ſkirmiſh edict aſſault ever ecclipſe garner merchant velvet renown miſtake publick aſſwage matrone ſteeple reforme either nothing avenge preface reſtrain morgage elect divulge eſquire gellie proclaim gender bewray hireling promiſe. ponder forbeare baſhfull awry paper vaniſh gallon embrace ſojourn augment priſon correct reprove inceſt planet keeper garden viſit beget perſon wafer avouch cutthrote prolixe Giant ſtandard enforce inchaunt repugne blaſpheme curtain ſolace proſper attaine under butler eſchew revolt knowledge pronounce revenge againſt rigour buttreſſe gibbet cudgel expreſſe ſuppoſe untill Apoſtle charitie intricate exquiſit baniſhment diſcomfit obſtinate patrimonie. ſequeſter librarie quadrangle hoſpitall altered tranquilitie yeſterday Grandfather monaſtery kalender reprehend fatherleſs voluntarie Whitſuntide nethermoſt affection effeminate eſſence intentionall oppoſition<g ref="char:punc">▪</g> affable orderly eccleſiaſtical premeditate management enable</p>
+            <list>
+               <pb n="48" facs="tcp:121613:29"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Galatians."/>
+               <item>Adieu</item>
+               <item>allegiance</item>
+               <item>ambaſſador</item>
+               <item>anguiſh</item>
+               <item>antichriſt</item>
+               <item>arraigne</item>
+               <item>aſcend</item>
+               <item>aſcertaine</item>
+               <item>aſſigne</item>
+               <item>atchieve</item>
+               <item>attempt</item>
+               <item>author</item>
+               <item>anthoritie</item>
+               <item>Banquet</item>
+               <item>beautie</item>
+               <item>beautiſte</item>
+               <item>beguile</item>
+               <item>beſiege</item>
+               <item>biere</item>
+               <item>bought</item>
+               <item>brought</item>
+               <item>bru<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe</item>
+               <item>buy</item>
+               <item>build</item>
+               <item>buſie</item>
+               <item>buſineſſe</item>
+               <item>Catalogue</item>
+               <item>catechiſime</item>
+               <item>character</item>
+               <item>chirurgion</item>
+               <item>choler</item>
+               <item>chriſme</item>
+               <item>Chriſt</item>
+               <item>chriſtian</item>
+               <item>chronicle</item>
+               <item>circuit</item>
+               <item>coheire</item>
+               <item>combe</item>
+               <item>co<g ref="char:cmbAbbrStroke">̄</g>cupiſcence</item>
+               <item>conduit</item>
+               <item>confeſſion</item>
+               <item>conſcience</item>
+               <item>conſcious</item>
+               <item>conveigh</item>
+               <item>cupboard</item>
+               <item>Damoſel</item>
+               <item>daughter</item>
+               <item>deaf</item>
+               <item>debt</item>
+               <item>decalogue</item>
+               <item>deputie</item>
+               <item>deſcend</item>
+               <item>dialogue</item>
+               <item>dipthung</item>
+               <item>diſciple</item>
+               <item>diſcipline</item>
+               <item>diſguiſe</item>
+               <item>diſhearten</item>
+               <item>diſhoneſt</item>
+               <item>diſhonour</item>
+               <item>doubt</item>
+               <item>dough</item>
+               <item>doung</item>
+               <item>Eccbo</item>
+               <item>eight</item>
+               <item>errand</item>
+               <item>excbequer</item>
+               <item>extinguiſh</item>
+               <item>Faiſhood</item>
+               <item>feoffe</item>
+               <item>flegme</item>
+               <item>forraigne</item>
+               <item>friendſhip</item>
+               <item>fright</item>
+               <item>fruite</item>
+               <item>Goal</item>
+               <item>gheſſe</item>
+               <item>gheſt</item>
+               <item>ghoſt</item>
+               <item>goſhawk</item>
+               <item>graſhopper</item>
+               <item>guard</item>
+               <item>guerdon</item>
+               <item>gueſt</item>
+               <item>guide</item>
+               <item>guile</item>
+               <item>guild</item>
+               <item>guiſe</item>
+               <item>Hanghtic</item>
+               <item>heire</item>
+               <item>houre</item>
+               <item>honſhould</item>
+               <item>hymne</item>
+               <item>Iealouſie</item>
+               <item>jeopardy</item>
+               <item>juice</item>
+               <item>ivie</item>
+               <item>juſt</item>
+               <item>Kalender</item>
+               <item>kemb</item>
+               <item>knight</item>
+               <item>knighthood</item>
+               <item>Lambe</item>
+               <item>language</item>
+               <item>languiſh</item>
+               <item>lan<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>orn</item>
+               <item>laſcivious</item>
+               <item>league</item>
+               <item>leud</item>
+               <item>light</item>
+               <item>liquor</item>
+               <item>lieu</item>
+               <item>lieutenent</item>
+               <item>Might</item>
+               <item>mirthe</item>
+               <item>melancholie</item>
+               <item>miſhap</item>
+               <item>monarch</item>
+               <item>monarchie</item>
+               <item>Neatheard</item>
+               <item>neglect</item>
+               <item>negligence</item>
+               <item>neighbour</item>
+               <item>nephew</item>
+               <item>night</item>
+               <item>nymph</item>
+               <item>noſtrill</item>
+               <item>nought</item>
+               <item>Ohlique</item>
+               <item>ought</item>
+               <item>Pantoſle</item>
+               <item>patriarch</item>
+               <item>peaceable</item>
+               <item>people</item>
+               <item>phantaſie</item>
+               <item>pight</item>
+               <item>plague</item>
+               <item>plight</item>
+               <item>pomegranat</item>
+               <item>potherh</item>
+               <item>pothook</item>
+               <item>prieſt</item>
+               <item>prieſthood</item>
+               <item>prologue</item>
+               <item>prorogue</item>
+               <item>pſalme</item>
+               <item>pſalmiſt</item>
+               <item>pſalter</item>
+               <item>puiſant</item>
+               <item>Quince</item>
+               <item>quiver</item>
+               <item>Raigue</item>
+               <item>relique</item>
+               <item>relieve</item>
+               <item>renowne</item>
+               <item>reſigne</item>
+               <item>rhime</item>
+               <item>rhetorique</item>
+               <item>rheum</item>
+               <item>rogue</item>
+               <item>Sceduele</item>
+               <item>ſanguine</item>
+               <item>ſcepter</item>
+               <item>ſepulchre</item>
+               <item>ſchiſme</item>
+               <item>ſchiſmatick</item>
+               <item>ſchoole</item>
+               <item>ſcholer</item>
+               <item>ſciatica</item>
+               <item>ſcience</item>
+               <item>ſhepherd</item>
+               <item>ſhield</item>
+               <item>ſight</item>
+               <item>ſigne</item>
+               <item>ſolemne</item>
+               <item>ſought</item>
+               <item>ſouldiers</item>
+               <item>ſphere</item>
+               <item>ſtraight</item>
+               <item>ſubtill</item>
+               <item>ſubtiltie</item>
+               <item>ſuite</item>
+               <item>ſwound</item>
+               <item>ſynagogne</item>
+               <item>Tetrarch</item>
+               <item>though</item>
+               <item>thought</item>
+               <item>thro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le</item>
+               <item>through</item>
+               <item>thyme</item>
+               <item>tomb</item>
+               <item>thumbe</item>
+               <item>tougue</item>
+               <item>traffique</item>
+               <item>travel</item>
+               <item>triacle</item>
+               <item>triumph</item>
+               <item>twilight</item>
+               <item>two</item>
+               <item>Uice</item>
+               <item>vicount</item>
+               <item>victuall</item>
+               <item>view</item>
+               <item>vnhandſome</item>
+               <item>Womb</item>
+               <item>women</item>
+               <item>wrangle</item>
+               <item>wreath</item>
+               <item>wren</item>
+               <item>wrench</item>
+               <item>wretch</item>
+               <item>wreſt</item>
+               <item>wright</item>
+               <item>wring</item>
+               <item>wrought</item>
+               <item>Xenophon</item>
+               <item>Yeoman</item>
+               <item>yunugh</item>
+               <item>yron</item>
+               <item>Zeal.</item>
+            </list>
+            <p>
+               <pb n="49" facs="tcp:121613:29"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Epheſians."/> build night flegme lieu tom be mirrhe ought bruiſe thyme ſought heir gueſt eight wren ſuit people tongue view debt quince bought juſt lamb ſight wreſt ſchoole biere pſalme knight guard Chriſt zeal fruit deaf comb might rogue buy ſlſield wretch nought ſwound rheume light ſphere guil two juice doubt lewd gheſs rhime ſtraight kemb through guiſe womb ſchiſm wretch dough raign ghoſt thought wring pight league hour plague fright wrench though gheſt goale hymn wrought guild chriſme ſigne doung nymph wrangle throttle author convey liquor diſguiſe knighthood attempt haughty diſhoneſt relique ſubtil triumph adieu prieſthood language daughter lanthorne houſhold prorogue anguiſh forraign traffique deſcend neat-herd choler hand-kercher handſome neglect banquet ynough buſie reſigne pſaltet atchieve ſcepter monarch renowne cup-board neighbour beſiege arraign yron beauty relieve pot-hook errand eccho handmaid miſhap aſcend noſtril pſalmiſt friendſhip aſſign ſeedule women oblique ſolemn languiſh twilight coheire nephew tetrarch ſcience feoffe ſhepherd dipthong falſhood quiver goſ-hawk beguile ſcholer ivie diſhonour catalogue aſcertain ſepulchre yeoman peaceable jeopardy confeſſion pomegranate allegeance catechiſme lieutenant ſynagogue diſciple patriarch chronicle puiſſant ambaſſadour dialogue ſchiſmatick jealouſie kalender damoſel authority exchequet circuit ſouldier pantofle extinguiſh graſhopper melancholy laſcivious chirurgion rhetorick deputy negligent Xenopho<g ref="char:cmbAbbrStroke">̄</g> phantaſie character diſcipline monarchy ſciatica decalogue concupiſcence ſubtilty chriſtian buſineſs guerdon anti<g ref="char:EOLhyphen"/>chriſt.</p>
+            <p>
+               <pb n="50" facs="tcp:121613:30"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Philippians Collossians."/> ADam Huſhaſh Caleb Noah Shiphtan Iddo Zadok Dan Uri Baal Jephlet Laban Obed Tiras Achan Hori Mahlab Dathan Uzzi Sheleph Tohu Gaal Joab Laban Nepheg Babel Makaz Edom Lohath Rogell Pelet Abner Jabez Nimrod Zacchur Juchal Machir Onam Tubal Cephas Ammon Galal Puah Shechem Eſau Kainan Riphath Magog Zephi David Perez Shaphan Uzal Nahum Amos Hadad Eden Joſeph Mamzer Tiknah Rechab Ophir Shamgar Bildad Igal Martha Nahor Diblam Terah. Peleg Samſon Ginath Heber Amzi Reuben Kedar Uthai Iphtah Zereſh Dinah Orpah Arbel Shalmon Eldad Izhak Nathan Levi Methuſhelah Japheth Paſhur Henoch Taphath Zidon Baruch Jattir Milchal Aſaph Gomer Iſhai Ornam Epher Shaaph Doeg Mizzah Joktan Thamar Zimri Pharaoh Keden Sichar Nabal Rehoboam Cosbi Thomas Jephunneh Zichri Rahab Michal Bilhah Sithri Eſhcol Zethan Korah Talman Revel Othni Aſhur Jonah Moab Leah Felix Gera Dorcas Hamdan Zaheth Ezbon Sarah Moſes Azur Joel Nadab Vaſhti Boaz Palti Ezra. Laban Tohaſh Feſtus Sabta Cuſan Aaron Daniel Jehoſhaphat Sheraiah Nethanëel Tanhumeth Maacathi Zuriſhdai Laadan Caiaphas Elchanan Gabriel Rephaiah Kamuel Ahiezer Jehoiakim Baaliada Uzziel Mahſeiah Gazebar Hannameel Mordecai Ezekiel Kuſhaiah Aſmodeus Igdaliah Habazania Lapidoth Belſhazzar Ammiſhaddai Zephaniah Uriel Epaphroditus Joſhua Hananiah</p>
+            <p>
+               <pb n="57" facs="tcp:121613:30"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1 &amp; 2 Theſſalonians."/> ALL HOPE RULE GRACE AGE MOTHER NEW PEACE WHICH OLD FAITH KING BOOKE RIGHT LAW QUEEN PART CREED WHO CHURCH KNIGHT YOUR SIGNE THERE FIRST ZEALE BIBLE CHAPTER GO SPEL AUTHOR WORKS ANSWER</p>
+            <p>
+               <hi>IMAGE MASTER PREF ACE DOCTRINE HOLY REASON ME<g ref="char:EOLhyphen"/>THOD PROPHET DIVINE TE<g ref="char:EOLhyphen"/>STAMENT BAPTISM HONOV<g ref="char:EOLhyphen"/>RABLE ADDITION REVE<g ref="char:EOLhyphen"/>REND GENERAL IMPRINTED EXCELLENT AFFLICTION</hi>
+            </p>
+            <p>
+               <hi>OUR MOST GRACIOVS LORD JESVS CHRIST SONNE OF GOD THE FA<g ref="char:EOLhyphen"/>THER, PRINCE OF THE KINGS OF THE EARTH WHICH WAS SENT FROM HEAVEN FOR, &amp;c.</hi>
+            </p>
+            <p>
+               <pb n="52" facs="tcp:121613:31"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1 &amp; 2 Timothy"/> wrangſtrumphſwarldwatchgnerthplſhrimpſt</p>
+            <p>knarmblſtrengthdwimplſtwrenchthwarmble</p>
+            <p>ſcrombſtdwintchthwarnſtwrathplgnorſtht</p>
+            <p>pſarldthwingſtknarmpthwinchwrangl</p>
+            <p>ſprongſtſpharthpldwelfthwranglknormth</p>
+            <p>ſwarmblethwermthwrinktwelfthſtarndl</p>
+            <p>thwimpſtſquarmthwrindlſhroughthwiſm</p>
+            <p>dwernſthwrongſphromblthgnoſhtwrench</p>
+            <p>glofthſworndlthwinſptdwarmthſtwrolnchth</p>
+            <p>gnaſhtwrenchdwangſtromblewrnight</p>
+            <p>ſwomptdwarldnſhrilmthwarmpſtſpritch</p>
+            <p>thwerndlſhramptknornſthwrinſtlethraxt</p>
+            <p>knelzthwartſwonbrimſnthlartzexſpgrith</p>
+            <p>ſwarmſtgrolnchdwarnſmeltſtungſwird</p>
+            <p>gnaſhthrontwrengthſworlbraſhthwinſme.</p>
+            <div type="subpart">
+               <head>Abbreviations upon Vowels.</head>
+               <p>a<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:cmbAbbrStroke">̄</g> o<g ref="char:cmbAbbrStroke">̄</g> u<g ref="char:cmbAbbrStroke">̄</g>. a<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:cmbAbbrStroke">̄</g> o<g ref="char:cmbAbbrStroke">̄</g> u<g ref="char:cmbAbbrStroke">̄</g>. <hi>a<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:cmbAbbrStroke">̄</g> o<g ref="char:cmbAbbrStroke">̄</g> u<g ref="char:cmbAbbrStroke">̄</g>.</hi>
+               </p>
+               <p>a<g ref="char:cmbAbbrStroke">̄</g> an am, e<g ref="char:cmbAbbrStroke">̄</g> en em, o<g ref="char:cmbAbbrStroke">̄</g> on om, u<g ref="char:cmbAbbrStroke">̄</g> un um.</p>
+               <p>
+                  <hi>As for example,</hi>
+               </p>
+               <p>Reme<g ref="char:cmbAbbrStroke">̄</g>ber my Co<g ref="char:cmbAbbrStroke">̄</g>me<g ref="char:cmbAbbrStroke">̄</g>datio<g ref="char:cmbAbbrStroke">̄</g>ns to all my friends at <hi>Farnha<g ref="char:cmbAbbrStroke">̄</g>,</hi> &amp; to all my acquainta<g ref="char:cmbAbbrStroke">̄</g>ce at <hi>Fullu<g ref="char:cmbAbbrStroke">̄</g>,</hi> to who<g ref="char:cmbAbbrStroke">̄</g> I wiſh abu<g ref="char:cmbAbbrStroke">̄</g>da<g ref="char:cmbAbbrStroke">̄</g>ce of peace, ple<g ref="char:cmbAbbrStroke">̄</g>ty, conſola<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g>, &amp;c.</p>
+               <p>&amp; <hi>is put for</hi> and. &amp;c. <hi>for</hi> and ſo forth.</p>
+            </div>
+            <div type="subpart">
+               <pb n="53" facs="tcp:121613:31"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="Titus, Philem. Hebr."/>
+               <head>The Names and deſcription of the Points uſed in Printing are as followeth,
+<hi>viz.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Comma</hi> noted thus [,]</item>
+                  <item>
+                     <hi>Semi-colon</hi> thus [;]</item>
+                  <item>
+                     <hi>Colon</hi> thus [:]</item>
+                  <item>
+                     <hi>Period</hi> thus [.]</item>
+                  <item>
+                     <hi>Interrogation</hi> thus [?]</item>
+                  <item>
+                     <hi>Admiration</hi> thus [!]</item>
+                  <item>
+                     <hi>Parentheſis</hi> thus ()</item>
+                  <item>The note of <hi>Con<g ref="char:EOLhyphen"/>tinuation</hi> thus [-]</item>
+                  <item>
+                     <hi>Apoſtrophus</hi> thus ['l]</item>
+               </list>
+               <div type="section">
+                  <head>Directions for their Uſe.</head>
+                  <p>At [,] ſtay or ſtop a little; as, <hi>Back-biters, haters of God, deſpiteful, proud, boaſters, inventers of evill things, diſobedient to Parents, without understanding, covenant breakers, without natu<g ref="char:EOLhyphen"/>rall affection, implacable, &amp;c.</hi> Rom. 1. 30.</p>
+                  <p>At [;] ſtay a pretty while; and at [:] ſtay ſomwhat longer: As, <hi>They that hate mee without a cauſe, are moe then the hairs of my head; they that would deſtroy me, being mine e<g ref="char:EOLhyphen"/>nemies wrongfully, are mighty: Then Preſtored that which I took not away.</hi> Pſal. 69. 4.
+<hi>A fool uttereth all his mind: but a wiſe man keepeth it in till afterwards.</hi> Prov. 29.
+10.</p>
+                  <p>At [.] make a ful ſtay, ſounding the laſt word before it ſomwhat lower: as, <hi>Rejoyce euermore. Pray without ceaſing. In every thing give thanks. Quench not the Spirit. Deſpiſe not prophecyings.</hi> 1 Theſſ. 5. 16, 20. <hi>Honour all men. Love the bro<g ref="char:EOLhyphen"/>therhood. Fear God<g ref="char:punc">▪</g> Honour the King.</hi> 1 Pet. 2. 17.</p>
+                  <p>At [?] make a full ſtay, ſounding the whole
+<pb n="54" facs="tcp:121613:32"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="James, 1 &amp; 2 Peter."/> ſentence before it as asking a queſtion <hi>Whoſe ox have I taken? or whoſe aſs have I taken? or whom have I defrauded? whom have I oppreſſed? &amp;c.</hi> 1 Sam. 12. 3.</p>
+                  <p>At [!] make a full ſtay; and ſound the whole ſentence before it, as wondering or crying out: as, <hi>O wretched man that I am! who ſhall deliver me,</hi> &amp;c. Rom. 7. 24. <hi>O Death, where is thy ſting! O Grave, where is thy victory!</hi> 1 Cor. 15. 55.</p>
+                  <p>At () obſerve that the words between thoſe compaſs ſtroaks muſt be ſounded ſomewhat dif<g ref="char:EOLhyphen"/>ferent from the reſt, as being an addition to the ſentence, which would be perfect without them: as, <hi>Know ye not, Brethren, (for I ſpeak to them that know the law) that the law hath dominion o<g ref="char:EOLhyphen"/>ver a man as long as he liveth? I know that in me, (that is, in my fleſh) dwelleth no good thing,</hi> Rom. 7. 1, 18.</p>
+                  <p>The [-] is uſed when one part of a word is put at the end of a line, and the other part be<g ref="char:EOLhyphen"/>gins the next line; or elſe when two words are (by way of elegancy) as it were joyned in one; as, <hi>ſelf-love</hi> for the <hi>love of ones ſelf: quick-ſight<g ref="char:EOLhyphen"/>ed,</hi> for <hi>one that hath a quick ſight.</hi>
+                  </p>
+                  <p>The <hi>Apoſtrophus,</hi> being a ſmall point put to the top of a letter thus ['d] is uſed for the cut<g ref="char:EOLhyphen"/>ting off a vowel or article, whereby two words or ſyllables are ſounded like one: as, '<hi>tis,</hi> or <hi>it's,</hi> for <hi>it is; 'twere,</hi> for <hi>it were; he'll,</hi> for
+<hi>he will:</hi> and <hi>commenc'd,</hi> for <hi>commenced; maintain'd,</hi> for
+<hi>maintained.</hi>
+                  </p>
+                  <p>
+                     <pb n="55" facs="tcp:121613:32"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1, 2, &amp; 3 John; Jude."/> Neglect or miſplacing of Points perverts the ſenſe: As, <hi>My ſon, if ſinners entice thee, conſent thou, not refraining thy foot, &amp;c.</hi> for <hi>Conſent thou not, refraining thy foot, &amp;c.</hi> for
+<hi>Conſent thou not, refraining thy foot, &amp;c.</hi> So, <hi>Chriſt ſaith, S<hi rend="sup">t</hi> Peter died for us;</hi> for, <hi>Chriſt (ſaith S<hi rend="sup">t</hi> Peter) died for us.</hi>
+                  </p>
+                  <p>
+                     <hi>Whoſo heareth theſe ſayings of mine &amp; doth them; I will liken him to a wiſe man, which built his houſe upon a rock, &amp;c. and the flouds beat upon it, and it fell, not becauſe it was grounded upon a rock.</hi> For, <hi>and it fell not,</hi> Matth. 7. 24, 25.</p>
+                  <p>
+                     <hi>Speake you righteouſly, O ye Congregation. Judg ye juſtly, O ye ſons of men.</hi> For,
+<hi>Speak you righ<g ref="char:EOLhyphen"/>teouſly, O ye Congregation? Judge ye juſtly, O yee ſonnes of men?</hi> Pſal. 58. 1.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Uſuall Abbreviations.</head>
+               <p>S<hi rend="sup">r</hi> 
+                  <hi>for Sir,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Maſter,</hi> Sch. <hi>Scholer,</hi> Qu. <hi>que<g ref="char:EOLhyphen"/>ſtion,</hi> Anſ. <hi>anſwer,</hi> Obj. <hi>objection,</hi> Sol. <hi>ſolution,</hi> Chap.
+<hi>chapter,</hi> v. <hi>verſe,</hi> viz. <hi>that is,</hi> Pag. <hi>page,</hi> Lin.
+<hi>line.</hi>
+               </p>
+               <p>M<hi rend="sup">r</hi> Sch. S<hi rend="sup">r</hi> Qu. Anſ. Obj. Sol. viz. Chap. v. Pag. Lin. Sch. M<hi rend="sup">r</hi> S<hi rend="sup">r</hi> Anſ. Qu. Sol. Obj. viz. Chap. Pag. V. Lin. M<hi rend="sup">r</hi> Qu. Chap. viz. Lin. Sch. Anſ. Pag. Obj. S<hi rend="sup">t</hi> V. Sol. &amp;c.</p>
+               <p>
+                  <hi>Good S<hi rend="sup">r</hi>, I have a ſuit from my Sons M<hi rend="sup">r</hi>, concerning his Scho. viz. that when he hath read a chap. you will appoſe him with a Qu. or two out of any v. or lin. you ſhall think meet; &amp; then out of his Anſ. to frame an Obj. or two, by his Sol. to try him, viz. how he underſtandeth what he read<g ref="char:EOLhyphen"/>eth.</hi>
+               </p>
+               <p>
+                  <pb n="56" facs="tcp:121613:33"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Revelation."/>
+                  <hi>For I perceive by his M<hi rend="sup">r</hi>, that a Sch. exer<g ref="char:EOLhyphen"/>ciſed in anſwering a Qu. propounded, and then gi<g ref="char:EOLhyphen"/>ving ſol. to an obj. there againſt, ſhall be made not only more carefull to mark the contents of every pag. &amp; chap. but the better to underſtand and re<g ref="char:EOLhyphen"/>member every lin. and v. that he readeth; Which, good S<hi rend="sup">r</hi>, let me intreat, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>The characters of the <hi>figures,</hi> with their uſe.</head>
+               <p>1 2 3 4 5 6 7 8 9 10</p>
+               <p>11 12 13 14 15 16 17 18 19 20</p>
+               <p>30 40 50 60 70 80 90 100 200</p>
+               <p>300 400 500 600 700 800 900 1000.</p>
+            </div>
+            <div type="subpart">
+               <head>The numeral Letters, and their value</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>I</cell>
+                        <cell>IV</cell>
+                        <cell> V</cell>
+                        <cell> VI</cell>
+                        <cell> IX</cell>
+                        <cell>X</cell>
+                        <cell>XL</cell>
+                        <cell>L</cell>
+                        <cell>XC</cell>
+                        <cell>C</cell>
+                        <cell> D</cell>
+                        <cell> M</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>9</cell>
+                        <cell>10</cell>
+                        <cell>40</cell>
+                        <cell>50</cell>
+                        <cell>90</cell>
+                        <cell>100</cell>
+                        <cell>500</cell>
+                        <cell>1000</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>X V I L C M D L X C V M D C I L M IX XL XC CXC IV CIV XIX M CIX LX</p>
+               <p>i ii iii iiii iv v vi vii viii ix x xx xxx xl l lx lxx lxxx xc c v ii ix vii iv cviii xlvi lv xcii clxii Mcclxvii xcix lxxxvi cxlix xv xxi x xviii MDcxix MDCLI.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <div type="subpart">
+               <pb n="57" facs="tcp:121613:33"/>
+               <head>The Names, and Order of all the Books of the Old and New TESTAMENT, with the Number of their Chapters.</head>
+               <list>
+                  <label>GEneſis hath—Chapters</label>
+                  <item>50</item>
+                  <label>Exodus</label>
+                  <item>40</item>
+                  <label>Leviticus</label>
+                  <item>27</item>
+                  <label>Numbers</label>
+                  <item>36</item>
+                  <label>Deuteronomie</label>
+                  <item>34</item>
+                  <label>Joſhua</label>
+                  <item>24</item>
+                  <label>Judges</label>
+                  <item>21</item>
+                  <label>Ruth</label>
+                  <item>4</item>
+                  <label>I. Samuel</label>
+                  <item>31</item>
+                  <label>II. Samuel</label>
+                  <item>24</item>
+                  <label>I. Kings</label>
+                  <item>22</item>
+                  <label>II. Kings</label>
+                  <item>25</item>
+                  <label>I. Chronicles</label>
+                  <item>22</item>
+                  <label>II. Chronicles</label>
+                  <item>36</item>
+                  <label>Ezra</label>
+                  <item>10</item>
+                  <label>Nehemiah</label>
+                  <item>13</item>
+                  <label>Eſther</label>
+                  <item>10</item>
+                  <label>Job</label>
+                  <item>42</item>
+                  <label>Pſalms</label>
+                  <item>150</item>
+                  <label>Proverbs hath Chapters</label>
+                  <item>31</item>
+                  <label>Eccleſiaſtes</label>
+                  <item>22</item>
+                  <label>Song of Solom. <hi>or Canticles</hi>
+                  </label>
+                  <item>8</item>
+                  <label>Iſaiah</label>
+                  <item>66</item>
+                  <label>Jeremiah</label>
+                  <item>52</item>
+                  <label>Lamentations of Jeremiah</label>
+                  <item>5</item>
+                  <label>Ezekiel</label>
+                  <item>48</item>
+                  <label>Daniel</label>
+                  <item>12</item>
+                  <label>Hoſea</label>
+                  <item>14</item>
+                  <label>Joel</label>
+                  <item>3</item>
+                  <label>Amos</label>
+                  <item>9</item>
+                  <label>Obadiah</label>
+                  <item>1</item>
+                  <label>Jonah</label>
+                  <item>4</item>
+                  <label>Micah</label>
+                  <item>7</item>
+                  <label>Nahum</label>
+                  <item>3</item>
+                  <label>Habbakkuk</label>
+                  <item>3</item>
+                  <label>Zephania</label>
+                  <item>3</item>
+                  <label>Haggai</label>
+                  <item>2</item>
+                  <label>Zechariah</label>
+                  <item>14</item>
+                  <label>Malachi</label>
+                  <item>4</item>
+               </list>
+            </div>
+            <div type="subpart">
+               <list>
+                  <head>The Books of the New TESTAMENT.</head>
+                  <label>MAtthew hath—Chapters</label>
+                  <item>28</item>
+                  <label>Mark</label>
+                  <item>16</item>
+                  <label>Luke</label>
+                  <item>24</item>
+                  <label>John</label>
+                  <item>21</item>
+                  <label>The Acts</label>
+                  <item>28</item>
+                  <label>Epiſtle to the Romans</label>
+                  <item>16</item>
+                  <label>I. to Corinthians</label>
+                  <item>16</item>
+                  <label>II. to Corinthians</label>
+                  <item>13</item>
+                  <label>To Galatians</label>
+                  <item>6</item>
+                  <label>Epheſians</label>
+                  <item>6</item>
+                  <label>Philippians</label>
+                  <item>4</item>
+                  <label>Coloſſians</label>
+                  <item>4</item>
+                  <label>I. to Theſſalonians</label>
+                  <item>5</item>
+                  <label>II. Theſſalonians hath chap.</label>
+                  <item>3</item>
+                  <label>I. to Timothie</label>
+                  <item>6</item>
+                  <label>II. to Timothie</label>
+                  <item>4</item>
+                  <label>The Epiſtle to Titus</label>
+                  <item>3</item>
+                  <label>To Philemon</label>
+                  <item>1</item>
+                  <label>To the Hebrews</label>
+                  <item>13</item>
+                  <label>Of James</label>
+                  <item>5</item>
+                  <label>I. of Peter</label>
+                  <item>5</item>
+                  <label>II. of Peter</label>
+                  <item>3</item>
+                  <label>I. of John</label>
+                  <item>5</item>
+                  <label>II. of John</label>
+                  <item>1</item>
+                  <label>III. of John</label>
+                  <item>1</item>
+                  <label>Of Jude</label>
+                  <item>1</item>
+                  <label>Revelation</label>
+                  <item>22</item>
+               </list>
+            </div>
+            <div type="subpart">
+               <pb n="58" facs="tcp:121613:34"/>
+               <head>The firſt Book of the <hi>CHRONICLES.</hi>
+               </head>
+               <div type="section">
+                  <head>CHAP. I.</head>
+                  <p>ADam, Sheth, Enoſh,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Kenan, Mahalaleel, Jered,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Henoch, Methuſhelah, Lamech,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> Noah, Shem, Ham, and Japheth.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> The ſons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meſhech, and Ti<g ref="char:EOLhyphen"/>ras.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> And the ſons of Gomer; Aſhchenaz, and Riphath, and Togarmah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> And the ſons of Javan; Eliſha, and Tarſhiſh, Kit<g ref="char:EOLhyphen"/>tim, and Dodanim.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> The ſons of Ham; Cuſh, and Mizraim, Put, and Canaan.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> And the ſons of Cuſh; Seba, and Havilah, and Sab<g ref="char:EOLhyphen"/>ta, and Raamah, and Sabtecha: and the ſons of Raamah; Sheba, and Dedan.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> And Cuſh begat Nimrod: he began to be mighty upon the earth.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/> And Mizraim begat Ludim, and Anamim, and Le<g ref="char:EOLhyphen"/>habim, and Naphtuhim.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/> And Pathruſim, and Caſluhim, (of whom came the Philiſtines) and Caphthorim.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/> And Canaan begat Zidon his firſt-born, and Heth;</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> The Jebuſite alſo, and the Amorite, and the Girga<g ref="char:EOLhyphen"/>ſhite.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/> And the Hivite, and the Archite, and the Sinite,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="16"/> And the Arvadite, and the Zemarite, and the Ha<g ref="char:EOLhyphen"/>mathite.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="17"/> The ſons of Shem; Elam, and Aſhur, and Arphax<g ref="char:EOLhyphen"/>ad,
+<pb n="59" facs="tcp:121613:34"/> and Lud, and Aram, and Uz, and Hul, and Gether, and Meſhech.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="18"/> And Arphaxad begat Shelah, and Shelah begat E<g ref="char:EOLhyphen"/>ber.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="19"/> And unto Eber were born two ſons: the name of the one <hi>was</hi> Peleg, (becauſe in his daies the earth was divided) and his brothers name <hi>was</hi> Joktan.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="20"/> And Joktan begat Almodad, and Sheleph, and Ha<g ref="char:EOLhyphen"/>zermaveth, and Jerah,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="21"/> Hadoram alſo, and Uzal, and Diklah,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="22"/> And Ebal, and Abimael, and Sheba,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="23"/> And Ophir, and Havilah, and Jobab: all theſe <hi>were</hi> the ſons of Joktan.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="24"/> Shem, Arphaxad, Shelah,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="25"/> Eber, Peleg, Rehu,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="26"/> Serug, Nahor, Terah,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="27"/> Abram, the ſame <hi>is</hi> Abraham.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="28"/> The ſons of Abraham; Iſaac, and Iſhmael.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="29"/> Theſe are their generations: the firſt-born of Iſh<g ref="char:EOLhyphen"/>mael, Nebaioth; then Kedar, and Adbeel, and Mibſam.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="30"/> Miſhma and Dumah, Maſſa, Hadad, and Tema,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="31"/> Jetur, Naphiſh, and Kedemah. Theſe are the ſons of Iſhmael.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="32"/> Now the ſons of Keturah, Abrahams concubine: ſhe bare Zimran, and Jokſhan, and Medan, and Midian, and Iſhbak, and Shuah. And the ſons of Jokſhan; Sheba, and Dedan.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="33"/> And the ſons of Midian; Ephah, and Ephar, and Henoch, and Abida, and Eldaah. All theſe <hi>are</hi> the ſons of Keturah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="34"/> And Abraham begat Iſaac. The ſons of Iſaac; Eſau and Iſrael.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="35"/> The ſons of Eſau, Eliphaz, Reuel, and Jeuſh, and Jaalam and Korah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="36"/> The ſons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="37"/> The ſons of Reuel; Nahath, Zerah, Shammath, and Mizzah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="38"/> And the ſons of Seir; Lotan, and Shobal, and Zi<g ref="char:EOLhyphen"/>beon,
+<pb n="60" facs="tcp:121613:35"/> and Ana, and Diſhon, and Ezar, and Diſhan.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="39"/> And the ſons of Lotan; Hori, and Homam: and Timna <hi>was</hi> Lotans ſiſter.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="40"/> The ſons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. And the ſons of Zibeon; Ai<g ref="char:EOLhyphen"/>ah, and Anah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="41"/> The ſons of Anah; Diſhon. And the ſons of Di<g ref="char:EOLhyphen"/>ſhon; Amram, and Eſhban, and Ithran, and Cheran.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="42"/> The ſons of Ezer, Bilhan, and Zavan, <hi>and</hi> Jakan. The ſons of Diſhon; Uz, and Aran.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="43"/> Now theſe <hi>are</hi> the Kings that reigned in the land of Edom, before any King reigned over the children of Iſ<g ref="char:EOLhyphen"/>rael; Bela the ſon of Beor: and the name of his citie was Dinhabah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="44"/> And when Bela was dead, Jobab the ſon of Zerah of Boſrah, reigned in his ſtead.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="45"/> And when Jobab was dead, Huſham of the land of the Temanites, reigned in his ſtead.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="46"/> And when Huſham was dead, Hadad the ſon of Be<g ref="char:EOLhyphen"/>dad (which ſmote Midian in the field of Moab) reigned in his ſtead: and the name of his citie <hi>was</hi> Avith.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="47"/> And when Hadad was dead, Samlah of Maſrekah reigned in his ſtead.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="48"/> And when Samlah was dead, Shaul of Rehoboth by the river, reigned in his ſtead.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="49"/> And when Shaul was dead, Baal-hanan the ſon of Achbor reigned in his ſtead.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="50"/> And when Baal-hanan was dead, Hadad reigned in his ſtead; and the name of his citie <hi>was</hi> Pai: and his wives name was Mehetabel the daughter of Matred, the daughter of Me-zahab.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="51"/> Hadad died alſo. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="52"/> Duke Aholibamah, duke Elah, duke Pinon.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="53"/> Duke Kenaz, duke Teman, duke Mibzar.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="54"/> Duke Magdiel, duke Iram: theſe are the dukes of Edom.</p>
+               </div>
+               <div type="section">
+                  <pb n="61" facs="tcp:121613:35"/>
+                  <head>CHAP. II.</head>
+                  <p>THeſe <hi>are</hi> the ſons of Iſrael; Reuben, Simeon, Levi and Judah, Iſlachar, and Zebulun,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Dan, Joſeph, and Benjamin, Naphtali Gad and A<g ref="char:EOLhyphen"/>ſher.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> The ſons of Judah; Er, and Onan, and Shelah: <hi>which</hi> three were born unto him of the daughter of Shua the Canaaniteſſe. And Er, the firſt-born of Judah, was evill in the fight of the Lord, and he ſlew him.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> And Tamar his daughter in law bare him Pharez and Zerah. All the ſons of Judah <hi>were</hi> five.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> The ſons of Pharez; Hezron, and Hamul.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> And the ſons of Zerah; Zimri, and Ethan, and He<g ref="char:EOLhyphen"/>man, and Calcol, and Dara: five of them in all.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> And the ſons of Carmi; Achar, the troubler of Iſra<g ref="char:EOLhyphen"/>el, who tranſgreſſed in the thing accurſed.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> And the ſons of Ethan; Azariah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> The ſons alſo of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> And Ram begat Aminadab, and Aminadab be<g ref="char:EOLhyphen"/>gat Nahſhon, prince of the children of Judah;</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/> And Nahſhon begat Salma, and Salma begat Boaz,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/> And Boaz begat Obed, and Obed begat Jeſſe,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/> And Jeſſe begat his firſt-born Eliab, and Abina<g ref="char:EOLhyphen"/>dab the ſecond, and Shimma the third,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> Nathanael the fourth, and Raddai the fifth,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/> Ozem the ſixth, David the ſeventh:</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="16"/> Whoſe ſiſters <hi>were</hi> Zeruiah and Abigail. And the ſons of Zeruiah; Abiſhai, and Joab, and Aſahel, three.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="17"/> And Abigail bare Amaſa. And the father of Amaſa <hi>was</hi> Jether the Iſhmeelite.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="18"/> And Caleb the ſon of Hezron begat <hi>children</hi> of A<g ref="char:EOLhyphen"/>zubah his wife, and of Jerioth: her ſons <hi>are</hi> theſe; Jeſher, and Shobab, and Ardon.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="19"/> And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="20"/> And Hur begat Uri, and Uri begat Bezaleel.</p>
+                  <p>
+                     <pb n="62" facs="tcp:121613:36"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="21"/> And afterward Hezron went in to the daughter of Machir, the father of Gilead, whom he married when he was threeſcore yeers old, and ſhe bare him Segub.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="22"/> And Segub begat Jair, who had three and twenty cities in the land of Gilead.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="23"/> And he took Geſhur, and Aram, with the towns of Jair from them, with Kenath and the towns thereof, <hi>even</hi> threeſcore cities. All theſe <hi>belonged to</hi> the ſons of Machir, the father of Gilead.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="24"/> And after that Hezron was dead in Caleb Epra<g ref="char:EOLhyphen"/>tah, then Abiah Hezrons wife bare him Aſher the father of Tekoa.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="25"/> And the ſons of Jerahmeel the firſt-born of Hez<g ref="char:EOLhyphen"/>ron, were Ram the firſt born, and Bunah, and Oren, and Ozen, and Ahijah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="26"/> Jerahmeel had alſo another wife, whoſe name was Atarah, ſhe was the mother of Onam.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="27"/> And the ſons of Ram the firſt-born of Jerahmeel, Maaz, and Jamin, and Ekar.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="28"/> And the ſons of Onam were Shammai, and Jada. And the ſons of Shammai, Nadab and Abiſhur.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="29"/> And the name of the wife of Abiſhur, was Ablhail, and ſhe bare him Ahban, and Molid.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="30"/> And the ſons of Nadab; Seled, and Appaim. But Seled died without children.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="31"/> And the ſons of Appaim, Iſhi; and the ſons of Iſhi, Sheſhan: and the children of Sheſhan, Ahlai.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="32"/> And the ſons of Jada the brother of Shammai, Je<g ref="char:EOLhyphen"/>ther, and Jonathan: and Jether died without children.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="33"/> And the ſons of Jonathan, Peleth, and Zaza. Theſe were the ſons of Jerahmeel.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="34"/> Now Sheſhan had no ſons, but daughters: and Sheſhan had a ſervant, an Egyptian, whoſe name was Jarha.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="35"/> And Sheſhan gave his daughter to Jarha his ſervant to wife, and ſhe bare him Attai.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="36"/> And Attai begat Nathan, and Nathan begat Za<g ref="char:EOLhyphen"/>bad.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="37"/> And Zabad begat Ephlal, and Ephlal begat Obed,</p>
+                  <p>
+                     <pb n="63" facs="tcp:121613:36"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="38"/> And Obed begat Jehu, and Jehu begat Aza<g ref="char:EOLhyphen"/>riah,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="39"/> And Azariah begat Helez, and Helez begat E<g ref="char:EOLhyphen"/>leaſah,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="40"/> And Eleaſah begat Siſamai, and Siſamai begat Shal<g ref="char:EOLhyphen"/>lum.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="41"/> And Shallum begat Jekamiah, and Jekamiah be<g ref="char:EOLhyphen"/>gat Eliſhama.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="42"/> Now the ſons of Caleb the brother of Jerahmeel <hi>were</hi> Meſha his firſt-born, which was the father of Zif: and the ſons of Mareſhah the father of Hebron.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="43"/> And the ſons of Hebron; Korah, and Tappua, and Rekem, and Shema,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="44"/> And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="45"/> And the ſon of Shammai was Maon: and Maon was the father of Beth-zur.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="46"/> And Ephah Calebs concubine bare Haran, and Moza, and Gazez: and Haran begat Gazez.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="47"/> And the ſons of Jahdai; Regem, and Jotham, and Geſhan, and Pelet, and Ephah, and Shaaph.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="48"/> Maacha Calebs concubine bare Shebir and Tir<g ref="char:EOLhyphen"/>hanah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="49"/> She bare alſo Shaaph the father of Madmannah, She<g ref="char:EOLhyphen"/>vah the father of Machbenah, and the father of Gibeah: and the daughter of Caleb <hi>was</hi> Achſah.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="50"/> Theſe were the ſons of Caleb, the ſon of Hur, the firſt-born of Ephratah: Shobal the father of Kirjath<g ref="char:EOLhyphen"/>jearim,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="51"/> Salmah the father of Bethlehem: Hareth the fa<g ref="char:EOLhyphen"/>ther of Beth-gader.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="52"/> And Shobal the father of Kirjath-jearim had ſons, Haroe, <hi>and</hi> half of the Manahethites.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="53"/> And the families of Kirjath-jearim, the Ithrites, and the Puhites, and the Shumathites, and the Miſhrahires: of them came the Zareathites, and the Eſhtaulites.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="54"/> The ſons of Salmah; Bethlehem, and the Neto<g ref="char:EOLhyphen"/>phathites, Ataroth, the houſe of Joab, and half of the Ma<g ref="char:EOLhyphen"/>nahethites, the Zorites.</p>
+                  <p>
+                     <pb n="64" facs="tcp:121613:37"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="55"/> And the families of the Scribes which dwelt at Ja<g ref="char:EOLhyphen"/>bez: the Tirathites, the Shimeathites, and Suchathites. Theſe are the Kenites that came of Hemath, the father of the houſe of Rechab.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>The ſecond Chapter of <hi>EZRA.</hi>
+               </head>
+               <p>NOw theſe are the children of the province, that went up out of the captivity, of thoſe which had been car<g ref="char:EOLhyphen"/>ried away, whom Nebuchad nezzar the king of Babylon had carried away unto Babylon, and came again unto Je<g ref="char:EOLhyphen"/>ruſalem and Juda, every one unto his city;</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Which came with Zerubbabel, Jeſhua, Nehemiah, Saraiah, Reelaiah, Mordecai, Bilſhan, Miſpar, Bigvai, Rehum, Baanah: the number of the men of the people of Iſrael.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The children of Paroſh, two thouſand an hundred ſeventy and two.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> The children of Shephatiah, three hundred ſeventy and two.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> The children of Arab, ſeven hundred ſeventy and five.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> The children of Pahath-moab, of the children of Jeſhua <hi>and</hi> Joab, two thouſand eight hundred and twelve.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> The children of Elam, a thouſand two hundred fifty and foure.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> The children of Zattu, nine hundred fourty and five.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> The children of Zaccai, ſeven hundred and three<g ref="char:EOLhyphen"/>ſcore.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> The children of Bani, ſix hundred forty and two.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> The children of Bebai, ſix hundred twenty and three.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> The children of Azgad, a thouſand two hundred twenty and two,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> The children of Adonikam, ſix hundred ſixty and ſix.</p>
+               <p>
+                  <pb n="65" facs="tcp:121613:37"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> The children of Bigvai, two thouſand fifty and ſix.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> The children of Adin, four hundred fifty and four.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> The children of Ater of Hezekiah, ninety and eight.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> The children of Bezai, three hundred twenty and three.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> The children of Jorah, an hundred and twelve.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> The children of Haſhum, two hundred twenty and three.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> The children of Gibber, ninety and five.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/> The children of Beth-lehem, an hundred twenty and three.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> The children of Netophah, fifty and ſix.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> The men of Aanthoth, an hundred twenty and eight.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/> The children of Azmaveth, fourty and two.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> the children of Kirjath-arim, Chephirah and Bee<g ref="char:EOLhyphen"/>roth, ſeven hundred and fourty and three.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="26"/> The children of Ramah, and Gaba, ſix hundred twenty and one.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> The men of Michmas, an hundred twenty and two.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> The men of Bethel and Ai, two hundred twenty and three.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> The children of Nebo, fifty and two.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> The children of Magbiſh, an hundred fifty and ſix.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="31"/> The children of the other Elam, a thouſand two hun<g ref="char:EOLhyphen"/>dred fifty and four.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="32"/> The children of Harim, three hundred and twenty.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="33"/> The children of Lod, Hadid, and Ono, ſeven hun<g ref="char:EOLhyphen"/>dred twenty and five.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="34"/> The children of Jericho, three hundred fourty and five.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="35"/> The children of Senaah, three thouſand ſix hundred and thirty.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="36"/> The prieſts the children of Jedaiah, of the houſe of Jeſhua, nine hundred ſeventy and three.</p>
+               <p>
+                  <pb n="66" facs="tcp:121613:38"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="37"/> The children of Immer, a thouſand fifty and two.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="38"/> The children of Paſhur, a thouſand two hundred fourty and ſeven.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="39"/> The children of Harim, a thouſand and ſeven<g ref="char:EOLhyphen"/>teen.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="40"/> The Levites: the children of Jeſhua, and Kadmiel, of the children of Hodaviah, ſeventy and foure.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="41"/> The ſingers: the children of Aſaph, an hundred twenty and eight.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="42"/> The children of the Potters: the children of Shal<g ref="char:EOLhyphen"/>lum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all, an hundred thirty and nine.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="43"/> The Nethinims: the children of Ziha, the children of Haſupha, the children of Tabaoth,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="44"/> The children of Keros, the children of Siaha, the children of Padon.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="45"/> The children of Lebanah, the children of Hagabah the children of Akkub.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="46"/> The children of Hagab, the children of Shalmai, the children of Hauan.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="47"/> The children of Giddel, the children of Gahar, the children of Reaiah,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="48"/> The children of Rezin, the children of Nekodah, the children of Gazzam.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="49"/> The children of Uzza, the children of Paſeah, the children of Beſai.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="50"/> The children of Aſnah, the children of Mehunim, the children of Nephuſim.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="51"/> The children of Bakbuk, the children of Hakupha, the children of Harhur.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="52"/> The children of Bazluth, the children of Mehida, the children of Harſha.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="53"/> The children of Barkos, the children of Siſena, the children of Thamah.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="54"/> The children of Neziah, the children of Ha<g ref="char:EOLhyphen"/>tipha.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="55"/> The children of Solomons ſervants: the children of Sotai, the children of Sophereth, the children of Penuda.</p>
+               <p>
+                  <pb n="67" facs="tcp:121613:38"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="56"/> The children of Jaalab, the children of Darkon, the children of Giddel.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="57"/> The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of A<g ref="char:EOLhyphen"/>mi.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="58"/> All the Nethinims, and the children of Solomons ſervants, <hi>were</hi> three hundred ninety and two.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="59"/> And theſe <hi>were</hi> they which went up from Tel-melah, Tel-harſa, Cherub, Addan, and Immer; but they could not ſhew their fathers houſe, and their ſeed, whether they <hi>were</hi> of Iſrael.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="60"/> The children of Delaiah, the children of Tobiah, the children of Nekoda, ſix hundred fifty and two.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="61"/> And of the children of the prieſts: the children of Habaiah, the children of Coz, the children of Barzillai: (which took a wife of the daughters of Barzillai the Gilea<g ref="char:EOLhyphen"/>dite, and was called after their name)</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="62"/> Theſe ſought their regiſter <hi>among</hi> thoſe that were re<g ref="char:EOLhyphen"/>koned by genealogie, but they were not found: therefore were they as polluted, put from the prieſthood.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="63"/> And the Tirſhatha ſaid unto them, that they ſhould not eat of the moſt holy things, till there ſtood up a prieſt with Urim and with Thummim.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="64"/> The whole congregation together, <hi>was</hi> fourty and two thouſand three hundred and threeſcore.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="65"/> Beſide their ſervants and their maids, of whom <hi>there were</hi> ſeven thouſand three hundred thirty and ſeven: and <hi>there were</hi> among them two hundred ſinging men, and ſinging women.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="66"/> Their horſes <hi>were</hi> ſeven hundred thirty and ſix: their mules, two hundred fourty and five.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="67"/> Their camels foure hundred thirty and five: <hi>their</hi> aſſs, ſix thouſand ſeven hundred and twenty.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="68"/> And <hi>ſome</hi> of the chief of the fathers, when they came to the houſe of the Lord which is at Jeruſalem, offered free<g ref="char:EOLhyphen"/>ly for the houſe of God to ſet it up in his place:</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="69"/> They gave after their ability, unto the treaſure of the work; threeſcore and one thouſand drams of gold, and five thouſand pound of ſilver, and one hundred prieſts gar<g ref="char:EOLhyphen"/>ments.</p>
+               <p>
+                  <pb n="68" facs="tcp:121613:39"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="70"/> So the Prieſts and the Levits, and ſome of the peo<g ref="char:EOLhyphen"/>ple, and the ſingers, and the porters, and the Nethinims dwelt in their cities, and all Iſrael in their cities.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>XXXVII<hi rend="sup">th</hi>
+                  </hi> Chapter of the Propheſie of the Prophet <hi>ISAIAH.</hi>
+               </head>
+               <p>ANnd it came to paſſe, when King Hezekiah heard it, that he rent his clothes, and covered himſelf with ſack-cloth, and went into the houſe of the Lord.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> And he ſent Eliakim, who was over the houſhold, and Shebna the ſcribe, and the elders of the prieſts cover<g ref="char:EOLhyphen"/>ed with ſack-cloth, unto Iſaiah the prophet, the ſon of Amoz.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> And they ſaid unto him, Thus ſaith Hezekiah, This day is a day of trouble, and of rebuke, and of blaſphemy: for the children are come to the birth, and there is not ſtrength to bring forth.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> It may be, the Lord thy God will hear the word of Rabſhakeh, whom the king of Aſſyria his maſter hath ſent to reproach the living God, and will reprove the words which the Lord thy God hath heard: wherefore lift up <hi>thy</hi> prayer for the remnant that is left.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> So the ſervants of King Hezekiah came to I<g ref="char:EOLhyphen"/>ſaiah.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> And Iſaiah ſaid unto them, Thus ſhall ye ſay unto your maſter, Thus ſaith the Lord, Be not affraid of the words that thou haſt heard, wherewith the ſervants of the King of Aſſyria have blaſphemed me.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Behold, I will ſend a blaſt upon him, and he ſhall hear a rumour, and return to his own land, and I will cauſe him to fall by the ſword in his own land.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> So Rabſhakeh returned, and found the King of Aſ<g ref="char:EOLhyphen"/>ſyria warring againſt Libnah: for he had heard that he was departed from Lachiſh.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> And he had heard ſay concerning Tirhakah King of Ethiopia, He is come forth to make war with thee: and when he heard <hi>it,</hi> he ſent meſſengers to Hezekiah, ſaying,</p>
+               <p>
+                  <pb n="69" facs="tcp:121613:39"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Thus ſhall ye ſpeak to Hezekiah king of Judah, ſaying, Let not thy God, in whom thou truſteſt, deceive thee, ſaying, Jeruſalem ſhall not be given into the hand of the king of Aſſyria.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> Behold, thou haſt heard what the kings of Aſſyria have done to all lands, by deſtroying them utterly, and ſhalt thou be delivered?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> Have the gods of the nations delivered them, which my fathers have deſtroyed, <hi>as</hi> Gozan, and Haran, and Rezeph, and the children of Eden, which
+<hi>were</hi> in Telaſ<g ref="char:EOLhyphen"/>ſar?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> Where <hi>is</hi> the king of Hamath, and the king of Ar<g ref="char:EOLhyphen"/>phad, and the king of the city of Sepharvaim, Henah, and Ivah?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> And Hezekiah received the letter from the hand of the meſſengers, and read it, and Hezekiah went up into the houſe of the Lord, and ſpread it before the Lord.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> And Hezekiah prayed before the Lord, ſaying,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> O Lord of hoſts, God of Iſrael, that dwelleſt <hi>between</hi> the cherubims, thou art the God, <hi>even</hi> thou alone, of all the kingdomes of the earth, thou haſt made heaven and earth.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> Incline thine ear, O Lord, and hear, open thine eyes, O LORD, and ſee, and hear all the words of Sennacherib, which hath ſent to reproach the living
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> Of a truth, Lord, the Kings of Aſſyria have laid waſte all the nations, and their countries,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> And have caſt their gods into the fire: for they were no gods, but the work of mens hands, wood and ſtone: therefore they have deſtroyed them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> Now therfore, O Lord our God, ſave us from his hand, that all the kingdoms of the earth may know, that thou art the Lord, even thou only.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/> Then Iſaiah the ſon of Amoz ſent to He<g ref="char:EOLhyphen"/>zekiah, ſaying, Thus ſaith the Lord God of Iſrael, whereas thou haſt prayed to me againſt Sennacherib King of Aſſyria:</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> This is the word which the LORD hath ſpo<g ref="char:EOLhyphen"/>ken
+<pb n="70" facs="tcp:121613:40"/> concerning him, the virgin the daughter of Zion hath deſpiſed thee, and laughed thee to ſcorn; the daughter of Jeruſalem hath ſhaken her head at thee.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> Whom haſt thou reproached and blaſphemed? and againſt whom haſt thou exalted <hi>thy</hi> voyce, and lifted up thine eyes on high? <hi>even</hi> againſt the holy One of Iſ<g ref="char:EOLhyphen"/>rael.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/> By thy ſervants haſt thou reproached the Lord, and haſt ſaid, By the multitude of my charets am I come up to the height of the mountains, to the ſides of Lebanon, and I will cut down the tall cedars thereof, and the choice fir-trees thereof: and I will enter into the height of his border, and the forreſt of his Carmel.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> I have digged and drunk water, and with the ſole of my feet have I dryed up all the rivers of the beſiged places.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="26"/> Haſt thou not heard long ago, <hi>how</hi> I have done it, <hi>and</hi> of ancient times that I have formed it? now have I brought it to paſſe, that thou ſhouldeſt be to lay waſte defenced cities into ruinous heaps.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> Therefore their inhabitants <hi>were</hi> of ſmall power, they were diſmayed and confounded: they were <hi>as</hi> the graſſe of the field, and <hi>as</hi> the green herb, <hi>as</hi> the graſſe on the houſe tops, and <hi>as corn</hi> blaſted before it be grown up.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> But I know thy abode, and thy going out, and thy coming in, and thy rage againſt me.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> Becauſe thy rage againſt me, and thy tumult is come up into mine ears; therefore will I put my hook in thy noſe, and my bridle in thy lips, and I will turn thee back by the way by which thou cameſt.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> And this <hi>ſhall be</hi> a ſign unto thee, Ye ſhall eat this yeer ſuch as groweth of it ſelf; and the ſecond yeer that which ſpringeth of the ſame: and in the third yeer ſowe ye, and reap, and plant vine-yards, and eat the fruit thereof.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="31"/> And the remnant that is eſcaped of the houſe of Judah; ſhall again take root downward, and bear fruit up<g ref="char:EOLhyphen"/>ward.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="32"/> For out of Jeruſalem ſhall go forth a remnant, and
+<pb n="71" facs="tcp:121613:40"/> they that eſcape out of mount Zion: the zeal of the Lord of hoſts ſhall do this.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="33"/> Therefore thus ſaith the Lord concerning the king of Aſſyria, He ſhall not come into this city, nor ſhoot an arrow there, nor come before it with ſheilds, or caſt a bank againſt it.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="34"/> By the way that he came' by the ſame ſhall he return, and ſhall not come into his city, ſaith the Lord.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="35"/> For I will defend this city to ſave it, for mine own ſake, and for my ſervant Davids ſake.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="36"/> Then the angel of the Lord went forth, and ſmote in the camp of the Aſſyrians a hundred and foureſcore and five thouſand: and when they aroſe early in the morning behold, they were all dead corpſes.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="37"/> So Sennacherib, king of Aſſyria departed, and went, and returned, and dwelt at Nineveh.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="38"/> And it came to paſſe as he was worſhipping in the houſe of Niſroch his god, that Adramelech and Sharezer his ſons ſmote him with the ſword; and they eſcaped into the land of Armenia: and Eſar-haddon his ſon reigned in his ſtead.</p>
+            </div>
+            <div type="subpart">
+               <head>The third Chapter of <hi>MATTHEVV.</hi>
+               </head>
+               <p>IN thoſe days came John Baptiſt, preaching in the wil<g ref="char:EOLhyphen"/>derneſſe of Judea.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> And ſaying, Repent ye: for the kingdom of heaven is at hand.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> For this is he that is ſpoken of by the prophet Eſaias, ſaying, The voice of one crying in the wilderneſs, Prepare ye the way of the Lord, make his paths ſtraight.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> And the ſame John had his raiment of camels hair, and a leathern girdle about his loins, and his meat was lo<g ref="char:EOLhyphen"/>cuſts and wild hony.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Then went out to him Jeruſalem and all Judea, and all the region round about Jordan,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> And were baptized of him in Jordan, confeſſing their ſins.</p>
+               <p>
+                  <pb n="72" facs="tcp:121613:41"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> But when he ſaw many of the Phariſees and Sadduces come to his baptiſm, he ſaid unto them, O generation of vipers, who hath warned you to flee from the wrath to come.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Bring forth therfore fruits meet for repentance.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> And think not to ſay within your ſelves, We have Abraham to our father: for I ſay unto you, that God is able of theſe ſtones to raiſe up children unto Abraham.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> And now alſo the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit, is hewn down, and caſt into the fire.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> I indeed baptize you with water unto repentance; but he that cometh after me, is mightier then I, whoſe ſhooes I am not worthy to bear: he ſhall baptize you with the holy Ghoſt and with fire.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> whoſe fan is in his hand, and he will throughly purge his floor, and gather his wheat into his garner: and will burne up the chaffe with unquenchable fire.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> Then cometh Jeſus from Galilee to Jordan, unto John to be baptized of him:</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> But John forbade him, ſaying, I have need to be bap<g ref="char:EOLhyphen"/>tized of thee, and comeſt thou to me?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> And Jeſus anſwering, ſaid unto him, Suffer it to be ſo now: for thus it becometh us to fulfil all righteouſneſs. Then he ſuffered him.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> And Jeſus, when he was baptized, went up ſtraight<g ref="char:EOLhyphen"/>way out of the water: and lo, the heavens were opened unto him, and he ſaw the Spirit of God deſcending like a dove, and lighting upon him.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> And lo, a voice from heaven, ſaying, This is my be<g ref="char:EOLhyphen"/>loved Son, in whom I am well pleaſed.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:121613:41"/>
+         </div>
+      </body>
+   </text>
+</TEI>
